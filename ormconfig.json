@@ -1,0 +1,27 @@
+[
+   {
+      "name": "hj-mysql",
+      "type": "mysql",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "username": "root",
+      "password": "root",
+      "database": "test",
+      "synchronize": true,
+      "logging": true,
+      "entities": [
+         "dist/entity/*/*.js"
+      ],
+      "migrations": [
+         "src/migration/**/*.ts"
+      ],
+      "subscribers": [
+         "src/subscriber/**/*.ts"
+      ],
+      "cli": {
+         "entitiesDir": "dist/entity/xx",
+         "migrationsDir": "src/migration",
+         "subscribersDir": "src/subscriber"
+      }
+   }
+]

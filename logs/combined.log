@@ -1,0 +1,5422 @@
+2020-10-23T05:57:46.065Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T05:57:46.168Z info: MongoDb connection success!
+2020-10-23T06:00:15.878Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T06:00:15.952Z info: MongoDb connection success!
+2020-10-23T06:05:56.931Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T06:05:57.002Z info: MongoDb connection success!
+2020-10-23T09:11:54.835Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:11:54.891Z info: MongoDb connection success!
+2020-10-23T09:14:06.184Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:14:06.222Z info: MongoDb connection success!
+2020-10-23T09:14:12.122Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:14:12.151Z info: MongoDb connection success!
+2020-10-23T09:15:05.762Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:15:05.799Z info: MongoDb connection success!
+2020-10-23T09:16:02.186Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:16:02.230Z info: MongoDb connection success!
+2020-10-23T09:16:11.556Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:16:11.587Z info: MongoDb connection success!
+2020-10-23T09:16:17.993Z warn: GET /api/v1 404 4ms
+2020-10-23T09:39:00.058Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:39:00.080Z info: MongoDb connection success!
+2020-10-23T09:39:09.210Z warn: GET /api/v1 404 4ms
+2020-10-23T09:40:11.249Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:40:11.288Z info: MongoDb connection success!
+2020-10-23T09:45:26.264Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:45:26.280Z info: MongoDb connection success!
+2020-10-23T09:46:51.440Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:46:51.462Z info: MongoDb connection success!
+2020-10-23T09:47:08.472Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:47:08.535Z info: MongoDb connection success!
+2020-10-23T09:47:12.753Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:47:12.787Z info: MongoDb connection success!
+2020-10-23T09:47:16.476Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:47:16.497Z info: MongoDb connection success!
+2020-10-23T09:49:03.937Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:49:03.960Z info: MongoDb connection success!
+2020-10-23T09:50:54.413Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:50:54.448Z info: MongoDb connection success!
+2020-10-23T09:52:14.085Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:52:14.104Z info: MongoDb connection success!
+2020-10-23T09:52:19.509Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:52:19.538Z info: MongoDb connection success!
+2020-10-23T09:52:49.581Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:52:49.613Z info: MongoDb connection success!
+2020-10-23T09:57:21.148Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:57:21.200Z info: MongoDb connection success!
+2020-10-23T09:57:24.675Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:57:24.708Z info: MongoDb connection success!
+2020-10-23T09:58:08.569Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T09:58:08.624Z info: MongoDb connection success!
+2020-10-23T10:00:07.831Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:00:07.868Z info: MongoDb connection success!
+2020-10-23T10:00:11.989Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:00:12.057Z info: MongoDb connection success!
+2020-10-23T10:02:03.422Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:02:03.445Z info: MongoDb connection success!
+2020-10-23T10:08:39.845Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:08:39.864Z info: MongoDb connection success!
+2020-10-23T10:08:52.956Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:08:52.978Z info: MongoDb connection success!
+2020-10-23T10:08:58.181Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:08:58.204Z info: MongoDb connection success!
+2020-10-23T10:27:23.397Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:27:23.454Z info: MongoDb connection success!
+2020-10-23T10:29:47.198Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:29:47.219Z info: MongoDb connection success!
+2020-10-23T10:36:00.075Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:36:00.104Z info: MongoDb connection success!
+2020-10-23T10:37:12.857Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:37:12.886Z info: MongoDb connection success!
+2020-10-23T10:37:20.456Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:37:20.479Z info: MongoDb connection success!
+2020-10-23T10:38:02.540Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:38:02.566Z info: MongoDb connection success!
+2020-10-23T10:38:14.172Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:38:14.191Z info: MongoDb connection success!
+2020-10-23T10:40:07.813Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:40:07.856Z info: MongoDb connection success!
+2020-10-23T10:48:58.516Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:48:58.636Z info: MongoDb connection success!
+2020-10-23T10:49:39.750Z warn: GET / 404 5ms
+2020-10-23T10:49:49.550Z warn: GET /api/v1 404 1ms
+2020-10-23T10:50:35.937Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:50:35.962Z info: MongoDb connection success!
+2020-10-23T10:50:58.992Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:50:59.043Z info: MongoDb connection success!
+2020-10-23T10:51:35.435Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T10:51:35.470Z info: MongoDb connection success!
+2020-10-23T12:21:42.677Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:21:42.699Z info: MongoDb connection success!
+2020-10-23T12:22:20.212Z warn: GET /api/v1 404 7ms
+2020-10-23T12:22:25.201Z warn: GET /api/v1/user 404 1ms
+2020-10-23T12:22:26.900Z warn: GET /api/v1/user 404 0ms
+2020-10-23T12:22:36.489Z warn: GET /api/v1/user?nickname=aa 404 1ms
+2020-10-23T12:23:55.523Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:23:55.539Z info: MongoDb connection success!
+2020-10-23T12:25:01.169Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:25:01.185Z info: MongoDb connection success!
+2020-10-23T12:25:39.128Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:25:39.144Z info: MongoDb connection success!
+2020-10-23T12:28:55.201Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:28:55.216Z info: MongoDb connection success!
+2020-10-23T12:29:47.928Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:29:47.945Z info: MongoDb connection success!
+2020-10-23T12:30:58.809Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:30:58.825Z info: MongoDb connection success!
+2020-10-23T12:31:27.276Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:31:27.290Z info: MongoDb connection success!
+2020-10-23T12:31:40.274Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:31:40.291Z info: MongoDb connection success!
+2020-10-23T12:33:32.549Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:33:32.571Z info: MongoDb connection success!
+2020-10-23T12:34:05.930Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:34:05.947Z info: MongoDb connection success!
+2020-10-23T12:36:46.394Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:36:46.410Z info: MongoDb connection success!
+2020-10-23T12:38:34.451Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:38:34.471Z info: MongoDb connection success!
+2020-10-23T12:39:04.806Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:39:04.826Z info: MongoDb connection success!
+2020-10-23T12:40:18.357Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:40:18.373Z info: MongoDb connection success!
+2020-10-23T12:40:42.819Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:40:42.835Z info: MongoDb connection success!
+2020-10-23T12:40:57.200Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:40:57.215Z info: MongoDb connection success!
+2020-10-23T12:41:16.881Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:41:16.897Z info: MongoDb connection success!
+2020-10-23T12:41:29.827Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:41:29.850Z info: MongoDb connection success!
+2020-10-23T12:41:44.527Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:41:44.543Z info: MongoDb connection success!
+2020-10-23T12:41:55.141Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:41:55.163Z info: MongoDb connection success!
+2020-10-23T12:41:57.696Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:41:57.711Z info: MongoDb connection success!
+2020-10-23T12:42:20.932Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:42:20.946Z info: MongoDb connection success!
+2020-10-23T12:49:31.910Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:49:31.926Z info: MongoDb connection success!
+2020-10-23T12:50:07.918Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:50:07.934Z info: MongoDb connection success!
+2020-10-23T12:50:26.794Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:50:26.810Z info: MongoDb connection success!
+2020-10-23T12:51:08.131Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:51:08.150Z info: MongoDb connection success!
+2020-10-23T12:51:28.666Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:51:28.682Z info: MongoDb connection success!
+2020-10-23T12:51:41.788Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:51:41.805Z info: MongoDb connection success!
+2020-10-23T12:51:51.816Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:51:51.830Z info: MongoDb connection success!
+2020-10-23T12:52:23.822Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:52:23.838Z info: MongoDb connection success!
+2020-10-23T12:54:19.442Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:54:19.459Z info: MongoDb connection success!
+2020-10-23T12:54:47.595Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:54:47.612Z info: MongoDb connection success!
+2020-10-23T12:54:55.823Z warn: GET /api/v1/user?nickname=aa 404 4ms
+2020-10-23T12:55:19.100Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:55:19.116Z info: MongoDb connection success!
+2020-10-23T12:55:20.971Z warn: GET /api/v1/user?nickname=aa 404 4ms
+2020-10-23T12:55:28.202Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:55:28.217Z info: MongoDb connection success!
+2020-10-23T12:55:31.123Z warn: GET /api/v1/user?nickname=aa 404 5ms
+2020-10-23T12:55:33.509Z warn: GET /api/v1/user?nickname=aa 404 1ms
+2020-10-23T12:56:13.478Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:56:13.495Z info: MongoDb connection success!
+2020-10-23T12:56:34.628Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:56:34.643Z info: MongoDb connection success!
+2020-10-23T12:56:36.245Z warn: GET /api/v1/user?nickname=aa 404 3ms
+2020-10-23T12:56:37.925Z warn: GET /api/v1/user?nickname=aa 404 1ms
+2020-10-23T12:56:42.075Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:56:42.094Z info: MongoDb connection success!
+2020-10-23T12:56:42.633Z warn: GET /api/v1/user?nickname=aa 401 4ms
+2020-10-23T12:57:23.771Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:57:23.788Z info: MongoDb connection success!
+2020-10-23T12:57:25.424Z warn: GET /api/v1/user?nickname=aa 401 6ms
+2020-10-23T12:57:26.991Z warn: GET /api/v1/user?nickname=aa 401 1ms
+2020-10-23T12:57:28.403Z warn: GET /api/v1/user?nickname=aa 401 1ms
+2020-10-23T12:58:17.383Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:58:17.398Z info: MongoDb connection success!
+2020-10-23T12:58:18.816Z warn: GET /api/v1/user?nickname=aa 401 4ms
+2020-10-23T12:58:20.374Z warn: GET /api/v1/user?nickname=aa 401 1ms
+2020-10-23T12:59:51.117Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T12:59:51.136Z info: MongoDb connection success!
+2020-10-23T12:59:58.976Z warn: GET /api/v1/user?nickname=aa 404 4ms
+2020-10-23T13:00:05.889Z warn: GET /api/v1/user?nickname=aa 404 1ms
+2020-10-23T13:00:14.198Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:00:14.221Z info: MongoDb connection success!
+2020-10-23T13:01:44.324Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:01:44.342Z info: MongoDb connection success!
+2020-10-23T13:01:46.670Z warn: GET /api/v1/user?nickname=aa 404 4ms
+2020-10-23T13:01:48.126Z warn: GET /api/v1/user?nickname=aa 404 0ms
+2020-10-23T13:03:57.333Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:03:57.352Z info: MongoDb connection success!
+2020-10-23T13:04:01.278Z warn: GET /api/v1/user?nickname=aa 404 4ms
+2020-10-23T13:04:15.810Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:04:15.825Z info: MongoDb connection success!
+2020-10-23T13:04:21.215Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:04:21.233Z info: MongoDb connection success!
+2020-10-23T13:04:34.126Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:04:34.141Z info: MongoDb connection success!
+2020-10-23T13:04:34.509Z error: GET /api/v1/user?nickname=aa 500 28ms
+2020-10-23T13:05:54.938Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:05:54.959Z info: MongoDb connection success!
+2020-10-23T13:05:57.193Z error: GET /api/v1/user?nickname=aa 500 12ms
+2020-10-23T13:06:20.169Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:06:20.185Z info: MongoDb connection success!
+2020-10-23T13:06:22.165Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:06:22.195Z info: MongoDb connection success!
+2020-10-23T13:06:23.648Z error: GET /api/v1/user?nickname=aa 500 9ms
+2020-10-23T13:06:25.408Z error: GET /api/v1/user?nickname=aa 500 2ms
+2020-10-23T13:07:18.676Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:07:18.692Z info: MongoDb connection success!
+2020-10-23T13:07:45.122Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:07:45.136Z info: MongoDb connection success!
+2020-10-23T13:07:57.303Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:07:57.325Z info: MongoDb connection success!
+2020-10-23T13:08:19.530Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:08:19.547Z info: MongoDb connection success!
+2020-10-23T13:10:45.664Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:10:45.680Z info: MongoDb connection success!
+2020-10-23T13:11:00.735Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:11:00.750Z info: MongoDb connection success!
+2020-10-23T13:11:11.837Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:11:11.855Z info: MongoDb connection success!
+2020-10-23T13:11:36.734Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:11:36.750Z info: MongoDb connection success!
+2020-10-23T13:11:41.507Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:11:41.526Z info: MongoDb connection success!
+2020-10-23T13:11:51.490Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:11:51.504Z info: MongoDb connection success!
+2020-10-23T13:15:59.253Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:15:59.270Z info: MongoDb connection success!
+2020-10-23T13:16:57.411Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:16:57.425Z info: MongoDb connection success!
+2020-10-23T13:17:39.462Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:17:39.478Z info: MongoDb connection success!
+2020-10-23T13:18:06.258Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:18:06.275Z info: MongoDb connection success!
+2020-10-23T13:18:22.945Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:18:22.965Z info: MongoDb connection success!
+2020-10-23T13:18:23.104Z error: GET /api/v1/user?nickname=aa 500 41ms
+2020-10-23T13:18:33.026Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:18:33.043Z info: MongoDb connection success!
+2020-10-23T13:18:35.480Z error: GET /api/v1/user?nickname=aa 500 33ms
+2020-10-23T13:18:37.081Z error: GET /api/v1/user?nickname=aa 500 2ms
+2020-10-23T13:20:28.436Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:20:28.453Z info: MongoDb connection success!
+2020-10-23T13:21:13.945Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:21:13.959Z info: MongoDb connection success!
+2020-10-23T13:26:51.551Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:26:51.568Z info: MongoDb connection success!
+2020-10-23T13:26:55.154Z info: GET /api/v1/user?nickname=aa 200 9ms
+2020-10-23T13:26:55.174Z warn: GET /favicon.ico 404 2ms
+2020-10-23T13:27:12.897Z info: GET /api/v1/user?nickname=aa 304 2ms
+2020-10-23T13:27:18.368Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T13:27:18.383Z info: MongoDb connection success!
+2020-10-23T14:31:17.011Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:32:54.700Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:34:34.623Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:35:19.833Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:38:52.609Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:40:32.764Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:41:05.602Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:41:18.825Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:42:38.520Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:43:52.618Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:43:53.312Z info: 数据库连接成功
+2020-10-23T14:43:54.744Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:43:56.151Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:43:56.886Z info: 数据库连接成功
+2020-10-23T14:44:08.963Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:44:09.602Z info: 数据库连接成功
+2020-10-23T14:47:31.006Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:47:31.718Z info: 数据库连接成功
+2020-10-23T14:48:27.639Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:48:28.351Z info: 数据库连接成功
+2020-10-23T14:55:22.417Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:55:23.217Z info: 数据库连接成功
+2020-10-23T14:55:56.623Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:55:57.398Z info: 数据库连接成功
+2020-10-23T14:56:03.934Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:56:04.653Z info: 数据库连接成功
+2020-10-23T14:56:13.656Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:56:14.355Z info: 数据库连接成功
+2020-10-23T14:57:17.794Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:57:18.613Z info: 数据库连接成功
+2020-10-23T14:57:42.424Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:57:43.110Z info: 数据库连接成功
+2020-10-23T14:58:05.115Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T14:58:05.869Z info: 数据库连接成功
+2020-10-23T15:01:42.977Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:01:43.744Z info: 数据库连接成功
+2020-10-23T15:02:01.716Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 6ms
+2020-10-23T15:02:30.355Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:02:31.207Z info: 数据库连接成功
+2020-10-23T15:02:36.758Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 6ms
+2020-10-23T15:07:05.231Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:07:05.967Z info: 数据库连接成功
+2020-10-23T15:08:14.968Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:08:15.731Z info: 数据库连接成功
+2020-10-23T15:08:18.144Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:08:18.864Z info: 数据库连接成功
+2020-10-23T15:08:36.226Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:08:36.944Z info: 数据库连接成功
+2020-10-23T15:08:41.256Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 4ms
+2020-10-23T15:08:42.528Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 1ms
+2020-10-23T15:09:10.459Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:09:11.130Z info: 数据库连接成功
+2020-10-23T15:09:15.847Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 6ms
+2020-10-23T15:09:58.607Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:09:59.393Z info: 数据库连接成功
+2020-10-23T15:10:42.527Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:10:43.245Z info: 数据库连接成功
+2020-10-23T15:11:53.601Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:11:54.348Z info: 数据库连接成功
+2020-10-23T15:11:56.617Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:11:57.274Z info: 数据库连接成功
+2020-10-23T15:12:10.513Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 7ms
+2020-10-23T15:12:19.450Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 2ms
+2020-10-23T15:12:20.936Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 2ms
+2020-10-23T15:12:24.776Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 1ms
+2020-10-23T15:14:03.007Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:14:03.772Z info: 数据库连接成功
+2020-10-23T15:14:20.548Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 9ms
+2020-10-23T15:16:45.857Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:16:46.610Z info: 数据库连接成功
+2020-10-23T15:16:50.905Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:16:51.705Z info: 数据库连接成功
+2020-10-23T15:17:06.262Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:17:07.006Z info: 数据库连接成功
+2020-10-23T15:17:11.041Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 11ms
+2020-10-23T15:19:26.069Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:19:26.681Z info: 数据库连接成功
+2020-10-23T15:19:30.527Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 6ms
+2020-10-23T15:19:43.670Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:19:44.362Z info: 数据库连接成功
+2020-10-23T15:19:58.897Z warn: Too many requests, IP: ::1
+2020-10-23T15:19:58.903Z warn: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 429 2ms
+2020-10-23T15:20:02.746Z warn: Too many requests, IP: ::1
+2020-10-23T15:20:02.747Z warn: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 429 1ms
+2020-10-23T15:20:03.656Z warn: Too many requests, IP: ::1
+2020-10-23T15:20:03.657Z warn: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 429 1ms
+2020-10-23T15:20:04.653Z warn: Too many requests, IP: ::1
+2020-10-23T15:20:04.653Z warn: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 429 1ms
+2020-10-23T15:20:05.762Z warn: Too many requests, IP: ::1
+2020-10-23T15:20:05.762Z warn: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 429 0ms
+2020-10-23T15:20:16.937Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:20:17.608Z info: 数据库连接成功
+2020-10-23T15:20:20.902Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:20:21.608Z info: 数据库连接成功
+2020-10-23T15:20:47.059Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:20:47.849Z info: 数据库连接成功
+2020-10-23T15:21:00.302Z warn: GET /api/v1/ 404 3ms
+2020-10-23T15:21:31.646Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:21:32.377Z info: 数据库连接成功
+2020-10-23T15:22:28.966Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:22:29.671Z info: 数据库连接成功
+2020-10-23T15:22:55.478Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:22:56.201Z info: 数据库连接成功
+2020-10-23T15:22:59.360Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:23:00.160Z info: 数据库连接成功
+2020-10-23T15:23:03.383Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:23:04.071Z info: 数据库连接成功
+2020-10-23T15:23:24.226Z warn: GET /api/v1 404 3ms
+2020-10-23T15:23:35.292Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:23:36.059Z info: 数据库连接成功
+2020-10-23T15:23:51.032Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:23:51.690Z info: 数据库连接成功
+2020-10-23T15:24:00.900Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:24:01.626Z info: 数据库连接成功
+2020-10-23T15:24:06.164Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:24:06.968Z info: 数据库连接成功
+2020-10-23T15:24:52.692Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:24:53.507Z info: 数据库连接成功
+2020-10-23T15:26:39.262Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:26:39.946Z info: 数据库连接成功
+2020-10-23T15:29:44.504Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:29:45.153Z info: 数据库连接成功
+2020-10-23T15:32:59.852Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:33:00.616Z info: 数据库连接成功
+2020-10-23T15:33:22.874Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:33:23.548Z info: 数据库连接成功
+2020-10-23T15:33:36.523Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:33:37.389Z info: 数据库连接成功
+2020-10-23T15:33:50.634Z warn: GET /api/v1 404 2ms
+2020-10-23T15:34:22.531Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:34:22.602Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 7ms
+2020-10-23T15:34:23.246Z info: 数据库连接成功
+2020-10-23T15:34:28.802Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:34:29.480Z info: 数据库连接成功
+2020-10-23T15:34:30.211Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 8ms
+2020-10-23T15:34:55.721Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:34:56.371Z info: 数据库连接成功
+2020-10-23T15:36:49.832Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:36:50.500Z info: 数据库连接成功
+2020-10-23T15:37:06.801Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:37:07.552Z info: 数据库连接成功
+2020-10-23T15:40:12.892Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:40:13.524Z info: 数据库连接成功
+2020-10-23T15:40:21.443Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:40:22.063Z info: 数据库连接成功
+2020-10-23T15:40:28.690Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:40:29.438Z info: 数据库连接成功
+2020-10-23T15:41:02.535Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:41:03.203Z info: 数据库连接成功
+2020-10-23T15:41:44.334Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:41:44.928Z info: 数据库连接成功
+2020-10-23T15:41:46.138Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:41:46.882Z info: 数据库连接成功
+2020-10-23T15:41:49.022Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:41:49.768Z info: 数据库连接成功
+2020-10-23T15:42:42.310Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:42:42.935Z info: 数据库连接成功
+2020-10-23T15:43:42.731Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:43:43.404Z info: 数据库连接成功
+2020-10-23T15:45:40.178Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:45:40.883Z info: 数据库连接成功>>
+2020-10-23T15:47:04.375Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:47:05.042Z info: 数据库连接成功>>
+2020-10-23T15:47:16.852Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:47:17.512Z info: 数据库连接成功>>
+2020-10-23T15:47:29.956Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:47:30.663Z info: 数据库连接成功>>
+2020-10-23T15:48:04.827Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:48:05.493Z info: 数据库连接成功>>
+2020-10-23T15:48:26.425Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:48:27.151Z info: 数据库连接成功>>
+2020-10-23T15:48:54.569Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:48:56.174Z info: 数据库连接成功>>
+2020-10-23T15:49:25.731Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:49:26.446Z info: 数据库连接成功>>
+2020-10-23T15:49:51.441Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:49:52.285Z info: 数据库连接成功>>
+2020-10-23T15:49:54.741Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:49:55.460Z info: 数据库连接成功>>
+2020-10-23T15:50:08.786Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:50:09.481Z info: 数据库连接成功>>
+2020-10-23T15:50:37.610Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:50:38.329Z info: 数据库连接成功>>
+2020-10-23T15:50:40.710Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:50:41.354Z info: 数据库连接成功>>
+2020-10-23T15:50:44.691Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:50:45.526Z info: 数据库连接成功>>
+2020-10-23T15:50:51.839Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:50:52.638Z info: 数据库连接成功>>
+2020-10-23T15:50:55.115Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 11ms
+2020-10-23T15:52:20.169Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:52:20.860Z info: 数据库连接成功>>
+2020-10-23T15:53:38.008Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:53:38.743Z info: 数据库连接成功>>
+2020-10-23T15:53:45.252Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:53:45.988Z info: 数据库连接成功>>
+2020-10-23T15:54:00.399Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:54:01.033Z info: 数据库连接成功>>
+2020-10-23T15:54:08.181Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:54:08.778Z info: 数据库连接成功>>
+2020-10-23T15:54:16.241Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:54:16.893Z info: 数据库连接成功>>
+2020-10-23T15:54:35.602Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:54:37.143Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:54:37.862Z info: 数据库连接成功>>
+2020-10-23T15:54:57.682Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:54:58.394Z info: 数据库连接成功>>
+2020-10-23T15:56:05.022Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:56:05.676Z info: 数据库连接成功>>
+2020-10-23T15:56:34.603Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:56:35.413Z info: 数据库连接成功>>
+2020-10-23T15:56:41.239Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:56:41.955Z info: 数据库连接成功>>
+2020-10-23T15:56:44.131Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:56:44.914Z info: 数据库连接成功>>
+2020-10-23T15:56:52.712Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:56:53.495Z info: 数据库连接成功>>
+2020-10-23T15:56:56.584Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:56:57.372Z info: 数据库连接成功>>
+2020-10-23T15:57:04.545Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:57:05.268Z info: 数据库连接成功>>
+2020-10-23T15:58:32.854Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:58:33.495Z info: 数据库连接成功>>
+2020-10-23T15:58:35.491Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:58:36.184Z info: 数据库连接成功>>
+2020-10-23T15:58:47.664Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:58:48.382Z info: 数据库连接成功>>
+2020-10-23T15:59:28.104Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:59:28.790Z info: 数据库连接成功>>
+2020-10-23T15:59:42.458Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T15:59:43.204Z info: 数据库连接成功>>
+2020-10-23T16:00:23.836Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:00:27.847Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:00:28.573Z info: 数据库连接成功>>
+2020-10-23T16:00:33.848Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:00:34.571Z info: 数据库连接成功>>
+2020-10-23T16:01:00.675Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:01:01.346Z info: 数据库连接成功>>
+2020-10-23T16:01:05.387Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:01:06.233Z error: 数据库连接失败
+2020-10-23T16:01:23.402Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:01:24.113Z info: 数据库连接成功>>
+2020-10-23T16:01:53.882Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:01:54.573Z info: 数据库连接成功>>
+2020-10-23T16:01:55.736Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:01:56.490Z info: 数据库连接成功>>
+2020-10-23T16:02:03.317Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:02:03.923Z info: 数据库连接成功>>
+2020-10-23T16:02:17.642Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:02:18.317Z info: 数据库连接成功>>
+2020-10-23T16:02:27.522Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:02:28.281Z info: 数据库连接成功>>
+2020-10-23T16:02:36.338Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:02:36.987Z info: 数据库连接成功>>
+2020-10-23T16:02:54.160Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:02:54.884Z info: 数据库连接成功>>
+2020-10-23T16:03:11.655Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:03:12.429Z info: 数据库连接成功>>
+2020-10-23T16:03:38.850Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-23T16:03:39.518Z info: 数据库连接成功>>
+2020-10-24T06:53:57.486Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T06:53:58.495Z info: 数据库连接成功>>
+2020-10-24T06:54:24.319Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T06:54:25.244Z info: 数据库连接成功>>
+2020-10-24T06:57:24.285Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T06:57:25.066Z info: 数据库连接成功>>
+2020-10-24T06:57:36.681Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T06:57:37.314Z info: 数据库连接成功>>
+2020-10-24T06:58:19.772Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T06:58:20.633Z info: 数据库连接成功>>
+2020-10-24T06:58:58.172Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T06:58:58.995Z info: 数据库连接成功>>
+2020-10-24T07:21:03.215Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:21:04.020Z info: 数据库连接成功>>
+2020-10-24T07:21:49.307Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:21:50.040Z info: 数据库连接成功>>
+2020-10-24T07:22:09.576Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:22:10.434Z info: 数据库连接成功>>
+2020-10-24T07:26:18.968Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:26:19.668Z info: 数据库连接成功>>
+2020-10-24T07:27:45.743Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:27:46.373Z info: 数据库连接成功>>
+2020-10-24T07:27:57.615Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:27:58.314Z info: 数据库连接成功>>
+2020-10-24T07:28:21.133Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:28:21.798Z info: 数据库连接成功>>
+2020-10-24T07:28:27.354Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:28:28.172Z info: 数据库连接成功>>
+2020-10-24T07:29:28.854Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:29:29.651Z info: 数据库连接成功>>
+2020-10-24T07:29:47.650Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:29:48.322Z info: 数据库连接成功>>
+2020-10-24T07:30:52.947Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:30:53.720Z info: 数据库连接成功>>
+2020-10-24T07:30:59.435Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:31:00.152Z info: 数据库连接成功>>
+2020-10-24T07:31:05.973Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:31:06.780Z info: 数据库连接成功>>
+2020-10-24T07:34:48.072Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:34:48.817Z info: 数据库连接成功>>
+2020-10-24T07:37:26.728Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:37:27.396Z info: 数据库连接成功>>
+2020-10-24T07:38:29.512Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:38:30.177Z info: 数据库连接成功>>
+2020-10-24T07:43:07.327Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:43:07.967Z info: 数据库连接成功>>
+2020-10-24T07:48:12.117Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:48:47.962Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:48:58.549Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:49:06.471Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:49:16.928Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:49:35.349Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:49:42.819Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:49:43.569Z info: 数据库连接成功>>
+2020-10-24T07:50:35.928Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:50:36.740Z info: 数据库连接成功>>
+2020-10-24T07:50:38.230Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 252ms
+2020-10-24T07:50:39.235Z warn: GET /favicon.ico 404 3ms
+2020-10-24T07:50:53.632Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 234ms
+2020-10-24T07:54:06.639Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:54:07.416Z info: 数据库连接成功>>
+2020-10-24T07:54:25.255Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:55:10.450Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:58:20.212Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:59:38.756Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T07:59:54.125Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T08:00:07.777Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T08:00:08.677Z info: 数据库连接成功>>
+2020-10-24T08:00:21.633Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T08:00:22.429Z info: 数据库连接成功>>
+2020-10-24T08:00:36.026Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 253ms
+2020-10-24T08:00:51.733Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 230ms
+2020-10-24T08:01:30.119Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 229ms
+2020-10-24T08:02:09.958Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 230ms
+2020-10-24T08:04:04.462Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T08:04:05.808Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T08:04:06.529Z info: 数据库连接成功>>
+2020-10-24T08:04:12.285Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 304 225ms
+2020-10-24T08:04:31.210Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-24T08:04:31.956Z info: 数据库连接成功>>
+2020-10-24T08:04:33.030Z info: GET /api/v1/user?nickname=jxh&realname=jiexuhui&gender=0&age=26 200 240ms
+2020-10-29T01:25:55.290Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:25:56.269Z info: 数据库连接成功>>
+2020-10-29T01:26:12.325Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:26:13.163Z info: 数据库连接成功>>
+2020-10-29T01:27:34.850Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:27:35.663Z info: 数据库连接成功>>
+2020-10-29T01:29:56.765Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:29:57.467Z info: 数据库连接成功>>
+2020-10-29T01:30:00.628Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:30:01.313Z info: 数据库连接成功>>
+2020-10-29T01:30:24.025Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:30:24.717Z info: 数据库连接成功>>
+2020-10-29T01:31:00.065Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:31:00.840Z info: 数据库连接成功>>
+2020-10-29T01:31:04.104Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:31:04.895Z info: 数据库连接成功>>
+2020-10-29T01:32:26.712Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:32:27.589Z info: 数据库连接成功>>
+2020-10-29T01:33:14.626Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:33:15.499Z info: 数据库连接成功>>
+2020-10-29T01:35:46.905Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:35:47.690Z info: 数据库连接成功>>
+2020-10-29T01:36:35.369Z warn: GET / 404 5ms
+2020-10-29T01:43:23.662Z info: GET /api/public/file/ext?path=aa 200 3ms
+2020-10-29T01:43:23.857Z warn: GET /favicon.ico 404 0ms
+2020-10-29T01:43:32.676Z info: GET /api/public/file/ext?path=1.jpg 200 3ms
+2020-10-29T01:44:03.056Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:44:03.927Z info: 数据库连接成功>>
+2020-10-29T01:44:05.683Z info: GET /api/public/file/ext?path=1.jpg 304 5ms
+2020-10-29T01:44:19.314Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:44:20.140Z info: 数据库连接成功>>
+2020-10-29T01:44:21.450Z info: GET /api/public/file/ext?path=1.jpg 304 5ms
+2020-10-29T01:45:18.855Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:45:19.606Z info: 数据库连接成功>>
+2020-10-29T01:45:21.192Z info: GET /api/public/file/ext?path=1.jpg 304 6ms
+2020-10-29T01:45:45.645Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T01:45:46.386Z info: 数据库连接成功>>
+2020-10-29T01:46:07.432Z info: GET /api/public/file/ext?path=1.jpg 304 7ms
+2020-10-29T01:46:29.900Z info: GET /api/public/file/ext?path=/heros/1.jpg 200 7ms
+2020-10-29T02:07:47.633Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:07:48.315Z info: 数据库连接成功>>
+2020-10-29T02:23:45.559Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:23:46.248Z info: 数据库连接成功>>
+2020-10-29T02:24:07.130Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:24:07.928Z info: 数据库连接成功>>
+2020-10-29T02:24:19.972Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:24:20.762Z info: 数据库连接成功>>
+2020-10-29T02:24:24.424Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:24:25.183Z info: 数据库连接成功>>
+2020-10-29T02:25:51.524Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:25:52.340Z error: 数据库连接失败
+2020-10-29T02:25:56.815Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:25:57.624Z error: 数据库连接失败
+2020-10-29T02:26:04.783Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:27:07.850Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:27:08.616Z error: 数据库连接失败
+2020-10-29T02:27:20.682Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:27:21.417Z error: 数据库连接失败
+2020-10-29T02:27:51.747Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:27:54.335Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:27:55.022Z info: 数据库连接成功>>
+2020-10-29T02:32:22.143Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:32:22.904Z info: 数据库连接成功>>
+2020-10-29T02:32:43.192Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:32:43.926Z info: 数据库连接成功>>
+2020-10-29T02:32:51.330Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:32:51.970Z info: 数据库连接成功>>
+2020-10-29T02:34:25.311Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:34:26.076Z info: 数据库连接成功>>
+2020-10-29T02:34:56.639Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:34:57.457Z info: 数据库连接成功>>
+2020-10-29T02:35:48.230Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:35:48.971Z info: 数据库连接成功>>
+2020-10-29T02:36:31.005Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:36:31.782Z info: 数据库连接成功>>
+2020-10-29T02:37:26.452Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:37:27.169Z info: 数据库连接成功>>
+2020-10-29T02:38:53.459Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:39:37.251Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:40:21.422Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:42:49.607Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:43:48.501Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:46:06.207Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:47:44.762Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:51:22.484Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:53:20.373Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:55:32.060Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:58:21.004Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T02:58:21.821Z info: 数据库连接成功>>
+2020-10-29T02:58:58.856Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:05:58.545Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:05:59.357Z info: 数据库连接成功>>
+2020-10-29T03:06:53.151Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:07:34.568Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:07:35.565Z info: 数据库连接成功>>
+2020-10-29T03:09:01.349Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:11:57.861Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:11:58.736Z info: 数据库连接成功>>
+2020-10-29T03:12:19.495Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:12:20.283Z info: 数据库连接成功>>
+2020-10-29T03:12:56.568Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:12:57.428Z info: 数据库连接成功>>
+2020-10-29T03:14:29.864Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:14:30.724Z info: 数据库连接成功>>
+2020-10-29T03:15:04.189Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:15:05.054Z info: 数据库连接成功>>
+2020-10-29T03:15:43.508Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:16:22.376Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:19:58.360Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:20:52.333Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:20:53.132Z info: 数据库连接成功>>
+2020-10-29T03:21:05.668Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:21:06.434Z info: 数据库连接成功>>
+2020-10-29T03:21:44.686Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:21:45.467Z info: 数据库连接成功>>
+2020-10-29T03:22:11.371Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:22:12.152Z info: 数据库连接成功>>
+2020-10-29T03:22:27.487Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:22:28.318Z info: 数据库连接成功>>
+2020-10-29T03:22:51.678Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:22:52.518Z info: 数据库连接成功>>
+2020-10-29T03:23:16.436Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:23:17.207Z info: 数据库连接成功>>
+2020-10-29T03:23:26.932Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:23:27.746Z info: 数据库连接成功>>
+2020-10-29T03:24:30.579Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:24:31.442Z info: 数据库连接成功>>
+2020-10-29T03:25:34.580Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T03:25:35.417Z info: 数据库连接成功>>
+2020-10-29T03:27:09.024Z info: POST /api/v1/wzry/login 200 91ms
+2020-10-29T05:56:58.414Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T05:56:59.312Z info: 数据库连接成功>>
+2020-10-29T05:57:19.199Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T05:57:20.043Z info: 数据库连接成功>>
+2020-10-29T06:13:37.805Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:13:38.719Z info: 数据库连接成功>>
+2020-10-29T06:13:54.878Z info: POST /api/v1/wzry/login 200 213ms
+2020-10-29T06:14:39.000Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:14:39.762Z info: 数据库连接成功>>
+2020-10-29T06:15:15.498Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:15:16.320Z info: 数据库连接成功>>
+2020-10-29T06:16:29.230Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:16:30.095Z info: 数据库连接成功>>
+2020-10-29T06:17:21.104Z info: POST /api/v1/wzry/login 200 404ms
+2020-10-29T06:18:17.235Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:18:17.970Z info: 数据库连接成功>>
+2020-10-29T06:18:31.600Z info: POST /api/v1/wzry/login 200 226ms
+2020-10-29T06:19:21.617Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:19:22.427Z info: 数据库连接成功>>
+2020-10-29T06:19:25.346Z info: POST /api/v1/wzry/login 200 272ms
+2020-10-29T06:21:10.149Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:21:11.034Z info: 数据库连接成功>>
+2020-10-29T06:21:35.163Z info: POST /api/v1/wzry/login 200 237ms
+2020-10-29T06:22:12.118Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:22:12.944Z info: 数据库连接成功>>
+2020-10-29T06:22:48.125Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:22:48.921Z info: 数据库连接成功>>
+2020-10-29T06:22:55.779Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:22:56.578Z info: 数据库连接成功>>
+2020-10-29T06:23:21.897Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:23:22.812Z info: 数据库连接成功>>
+2020-10-29T06:23:36.236Z info: POST /api/v1/wzry/login 200 241ms
+2020-10-29T06:24:53.603Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:24:54.382Z info: 数据库连接成功>>
+2020-10-29T06:26:53.382Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:26:54.153Z info: 数据库连接成功>>
+2020-10-29T06:28:03.897Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:28:04.638Z info: 数据库连接成功>>
+2020-10-29T06:29:45.545Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:29:46.286Z info: 数据库连接成功>>
+2020-10-29T06:29:54.668Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:29:55.457Z info: 数据库连接成功>>
+2020-10-29T06:30:02.237Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:30:03.087Z info: 数据库连接成功>>
+2020-10-29T06:30:28.984Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:42:19.489Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:42:20.179Z info: 数据库连接成功>>
+2020-10-29T06:42:33.156Z info: POST /api/v1/wzry/login 200 306ms
+2020-10-29T06:43:04.354Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:43:06.752Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:43:07.648Z info: 数据库连接成功>>
+2020-10-29T06:43:18.444Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:43:19.173Z info: 数据库连接成功>>
+2020-10-29T06:43:21.494Z info: POST /api/v1/wzry/login 200 258ms
+2020-10-29T06:44:19.765Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T06:44:20.535Z info: 数据库连接成功>>
+2020-10-29T07:08:04.233Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:08:05.147Z info: 数据库连接成功>>
+2020-10-29T07:08:39.816Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:08:40.588Z info: 数据库连接成功>>
+2020-10-29T07:11:36.313Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:11:37.100Z info: 数据库连接成功>>
+2020-10-29T07:11:39.459Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:11:40.324Z info: 数据库连接成功>>
+2020-10-29T07:11:47.903Z info: POST /api/v1/wzry/login 200 255ms
+2020-10-29T07:12:13.386Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:12:14.108Z info: 数据库连接成功>>
+2020-10-29T07:12:25.452Z info: POST /api/v1/wzry/login 200 259ms
+2020-10-29T07:12:56.656Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:12:57.560Z info: 数据库连接成功>>
+2020-10-29T07:39:12.486Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:43:49.854Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:44:50.623Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:44:51.598Z info: 数据库连接成功>>
+2020-10-29T07:47:12.905Z info: POST /api/v1/wzry/login 200 399ms
+2020-10-29T07:49:39.460Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:49:40.249Z info: 数据库连接成功>>
+2020-10-29T07:52:49.956Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:52:50.751Z info: 数据库连接成功>>
+2020-10-29T07:53:08.665Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:53:09.427Z info: 数据库连接成功>>
+2020-10-29T07:53:22.035Z info: POST /api/v1/wzry/login 200 475ms
+2020-10-29T07:57:14.564Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:57:15.316Z info: 数据库连接成功>>
+2020-10-29T07:58:14.710Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:58:15.449Z info: 数据库连接成功>>
+2020-10-29T07:59:03.862Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T07:59:04.571Z info: 数据库连接成功>>
+2020-10-29T08:00:33.317Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:00:34.080Z info: 数据库连接成功>>
+2020-10-29T08:00:41.553Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:00:42.327Z info: 数据库连接成功>>
+2020-10-29T08:11:03.743Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:11:04.482Z info: 数据库连接成功>>
+2020-10-29T08:14:15.713Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:14:16.476Z info: 数据库连接成功>>
+2020-10-29T08:15:17.296Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:15:18.080Z info: 数据库连接成功>>
+2020-10-29T08:16:06.416Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:16:07.285Z info: 数据库连接成功>>
+2020-10-29T08:16:55.066Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:16:55.838Z info: 数据库连接成功>>
+2020-10-29T08:17:02.706Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:17:03.483Z info: 数据库连接成功>>
+2020-10-29T08:17:13.666Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:17:14.442Z info: 数据库连接成功>>
+2020-10-29T08:17:34.253Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:17:35.058Z info: 数据库连接成功>>
+2020-10-29T08:18:36.563Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:18:37.404Z info: 数据库连接成功>>
+2020-10-29T08:19:09.381Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:19:10.134Z info: 数据库连接成功>>
+2020-10-29T08:19:49.395Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:19:50.145Z info: 数据库连接成功>>
+2020-10-29T08:20:12.267Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:20:13.088Z info: 数据库连接成功>>
+2020-10-29T08:20:20.883Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:20:21.735Z info: 数据库连接成功>>
+2020-10-29T08:20:50.890Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:20:51.686Z info: 数据库连接成功>>
+2020-10-29T08:21:55.153Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:21:55.923Z info: 数据库连接成功>>
+2020-10-29T08:24:41.806Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:24:42.531Z info: 数据库连接成功>>
+2020-10-29T08:26:09.813Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:26:10.613Z info: 数据库连接成功>>
+2020-10-29T08:27:01.145Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:27:01.872Z info: 数据库连接成功>>
+2020-10-29T08:27:16.681Z info: POST /api/v1/wzry/login 200 418ms
+2020-10-29T08:27:27.104Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:27:27.936Z info: 数据库连接成功>>
+2020-10-29T08:27:40.453Z info: POST /api/v1/wzry/login 200 571ms
+2020-10-29T08:29:35.863Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:29:36.665Z info: 数据库连接成功>>
+2020-10-29T08:30:25.527Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:30:26.242Z info: 数据库连接成功>>
+2020-10-29T08:31:25.491Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:31:26.296Z info: 数据库连接成功>>
+2020-10-29T08:31:35.733Z info: POST /api/v1/wzry/login 200 631ms
+2020-10-29T08:32:11.140Z info: POST /api/v1/wzry/login 200 411ms
+2020-10-29T08:32:25.645Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:32:26.408Z info: 数据库连接成功>>
+2020-10-29T08:44:16.285Z info: POST /api/v1/wzry/login 200 488ms
+2020-10-29T08:45:31.348Z info: POST /api/v1/wzry/login 200 292ms
+2020-10-29T08:45:50.773Z info: POST /api/v1/wzry/login 200 361ms
+2020-10-29T08:46:11.941Z info: POST /api/v1/wzry/login 200 257ms
+2020-10-29T08:46:36.977Z info: POST /api/v1/wzry/login 200 293ms
+2020-10-29T08:48:46.569Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:48:47.546Z info: 数据库连接成功>>
+2020-10-29T08:49:37.147Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:49:39.876Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:50:00.535Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T08:50:01.348Z info: 数据库连接成功>>
+2020-10-29T08:50:07.466Z info: POST /api/v1/wzry/login 200 489ms
+2020-10-29T08:50:33.341Z info: POST /api/v1/wzry/login 200 371ms
+2020-10-29T08:51:07.076Z info: POST /api/v1/wzry/login 200 406ms
+2020-10-29T08:52:02.735Z info: POST /api/v1/wzry/login 200 381ms
+2020-10-29T08:52:21.401Z info: POST /api/v1/wzry/login 200 410ms
+2020-10-29T08:52:41.290Z info: POST /api/v1/wzry/login 200 359ms
+2020-10-29T08:54:20.543Z info: POST /api/v1/wzry/login 200 428ms
+2020-10-29T08:58:00.176Z info: POST /api/v1/wzry/login 200 361ms
+2020-10-29T08:59:52.408Z info: POST /api/v1/wzry/login 200 341ms
+2020-10-29T09:05:54.483Z info: POST /api/v1/wzry/login 200 357ms
+2020-10-29T09:20:41.151Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:20:42.672Z info: 数据库连接成功>>
+2020-10-29T09:21:02.828Z info: POST /api/v1/wzry/login 200 558ms
+2020-10-29T09:21:45.274Z info: POST /api/v1/wzry/login 200 426ms
+2020-10-29T09:21:51.783Z info: POST /api/v1/wzry/login 200 377ms
+2020-10-29T09:22:35.105Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:22:35.970Z info: 数据库连接成功>>
+2020-10-29T09:22:42.613Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:22:43.462Z info: 数据库连接成功>>
+2020-10-29T09:24:12.746Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:24:13.573Z info: 数据库连接成功>>
+2020-10-29T09:25:15.348Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:25:16.099Z info: 数据库连接成功>>
+2020-10-29T09:26:55.527Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:26:56.366Z info: 数据库连接成功>>
+2020-10-29T09:27:28.817Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:27:29.613Z info: 数据库连接成功>>
+2020-10-29T09:27:35.255Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:27:36.042Z info: 数据库连接成功>>
+2020-10-29T09:27:49.989Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:27:50.792Z info: 数据库连接成功>>
+2020-10-29T09:27:55.394Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:27:56.231Z info: 数据库连接成功>>
+2020-10-29T09:28:11.970Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:28:12.805Z info: 数据库连接成功>>
+2020-10-29T09:31:12.725Z info: GET /api/v1/wzry/question?id=1&ts=1603963872668 200 14ms
+2020-10-29T09:31:24.169Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:31:24.907Z info: 数据库连接成功>>
+2020-10-29T09:31:26.618Z info: GET /api/v1/wzry/question?id=1&ts=1603963886505 200 79ms
+2020-10-29T09:31:38.987Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:31:39.804Z info: 数据库连接成功>>
+2020-10-29T09:32:22.939Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:32:23.763Z info: 数据库连接成功>>
+2020-10-29T09:32:32.622Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:32:33.367Z info: 数据库连接成功>>
+2020-10-29T09:35:26.594Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:35:27.379Z info: 数据库连接成功>>
+2020-10-29T09:35:58.538Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:35:59.340Z info: 数据库连接成功>>
+2020-10-29T09:36:28.430Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:36:29.244Z info: 数据库连接成功>>
+2020-10-29T09:36:30.849Z info: GET /api/v1/wzry/question?id=1&ts=1603964190662 200 164ms
+2020-10-29T09:37:04.475Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:37:05.191Z info: 数据库连接成功>>
+2020-10-29T09:37:08.512Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:37:09.361Z info: 数据库连接成功>>
+2020-10-29T09:37:18.334Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:37:19.122Z info: 数据库连接成功>>
+2020-10-29T09:37:50.224Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:37:51.076Z info: 数据库连接成功>>
+2020-10-29T09:37:53.700Z info: GET /api/v1/wzry/question?id=1&ts=1603964273496 200 182ms
+2020-10-29T09:38:14.633Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:38:15.426Z info: 数据库连接成功>>
+2020-10-29T09:38:18.761Z info: GET /api/v1/wzry/question?id=1&ts=1603964298548 200 187ms
+2020-10-29T09:38:38.086Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-29T09:38:38.998Z info: 数据库连接成功>>
+2020-10-29T09:39:18.304Z info: GET /api/v1/wzry/question?id=1&ts=1603964358087 200 190ms
+2020-10-29T09:40:35.912Z info: GET /api/v1/wzry/question?id=1&ts=1603964435720 200 173ms
+2020-10-29T09:54:13.756Z info: GET /api/v1/wzry/question?id=1&ts=1603965253573 200 166ms
+2020-10-29T09:54:25.769Z info: GET /api/v1/wzry/question?id=1&ts=1603965265589 200 162ms
+2020-10-29T09:55:13.455Z info: GET /api/v1/wzry/question?id=1&ts=1603965313272 200 168ms
+2020-10-29T09:55:41.160Z info: GET /api/v1/wzry/question?id=1&ts=1603965340981 200 164ms
+2020-10-29T09:55:41.711Z info: GET /api/v1/wzry/question?id=1&ts=1603965341527 200 168ms
+2020-10-29T09:57:07.763Z info: GET /api/v1/wzry/question?id=1&ts=1603965427571 200 177ms
+2020-10-29T10:01:07.383Z info: GET /api/v1/wzry/question?id=1&ts=1603965667204 200 161ms
+2020-10-29T10:01:17.544Z info: GET /api/v1/wzry/question?id=1&ts=1603965677355 200 162ms
+2020-10-29T10:01:56.576Z info: GET /api/v1/wzry/question?id=1&ts=1603965716375 200 186ms
+2020-10-29T10:02:27.272Z info: GET /api/v1/wzry/question?id=1&ts=1603965747089 200 164ms
+2020-10-29T10:02:38.914Z info: GET /api/v1/wzry/question?id=1&ts=1603965758722 200 175ms
+2020-10-29T10:02:58.454Z info: GET /api/v1/wzry/question?id=1&ts=1603965778270 200 168ms
+2020-10-29T10:03:48.695Z info: GET /api/v1/wzry/question?id=1&ts=1603965828502 200 160ms
+2020-10-29T10:04:08.796Z info: GET /api/v1/wzry/question?id=1&ts=1603965848610 200 167ms
+2020-10-29T10:05:45.484Z info: GET /api/v1/wzry/question?id=1&ts=1603965945301 200 166ms
+2020-10-29T10:10:23.386Z info: GET /api/v1/wzry/question?id=1&ts=1603966223208 200 162ms
+2020-10-29T10:10:23.945Z info: GET /api/v1/wzry/question?id=1&ts=1603966223767 200 160ms
+2020-10-29T10:14:21.474Z info: GET /api/v1/wzry/question?id=1&ts=1603966461295 200 161ms
+2020-10-29T10:14:38.331Z info: GET /api/v1/wzry/question?id=1&ts=1603966478151 200 161ms
+2020-10-29T10:14:39.862Z info: GET /api/v1/wzry/question?id=1&ts=1603966479682 200 166ms
+2020-10-29T10:17:46.733Z info: GET /api/v1/wzry/question?id=1&ts=1603966666516 200 189ms
+2020-10-29T10:17:53.587Z info: GET /api/v1/wzry/question?id=1&ts=1603966673405 200 160ms
+2020-10-29T10:19:31.418Z info: GET /api/v1/wzry/question?id=1&ts=1603966771202 200 198ms
+2020-10-29T10:19:33.132Z info: GET /api/v1/wzry/question?id=1&ts=1603966772947 200 169ms
+2020-10-29T10:20:01.780Z info: GET /api/v1/wzry/question?id=1&ts=1603966801602 200 164ms
+2020-10-29T10:20:35.263Z info: GET /api/v1/wzry/question?id=1&ts=1603966835092 200 159ms
+2020-10-29T10:21:33.572Z info: GET /api/v1/wzry/question?id=1&ts=1603966893363 200 190ms
+2020-10-29T10:21:35.592Z info: GET /api/v1/wzry/question?id=1&ts=1603966895388 200 188ms
+2020-10-29T10:22:06.365Z info: GET /api/v1/wzry/question?id=1&ts=1603966926179 200 162ms
+2020-10-29T10:22:07.671Z info: GET /api/v1/wzry/question?id=1&ts=1603966927496 200 163ms
+2020-10-29T10:23:29.633Z info: GET /api/v1/wzry/question?id=1&ts=1603967009442 200 173ms
+2020-10-29T10:23:31.596Z info: GET /api/v1/wzry/question?id=1&ts=1603967011423 200 161ms
+2020-10-29T10:26:36.464Z info: GET /api/v1/wzry/question?id=1&ts=1603967196280 200 162ms
+2020-10-29T10:26:37.462Z info: GET /api/v1/wzry/question?id=1&ts=1603967197283 200 163ms
+2020-10-29T10:26:52.698Z info: GET /api/v1/wzry/question?id=1&ts=1603967212525 200 160ms
+2020-10-29T10:30:56.969Z info: GET /api/v1/wzry/question?id=1&ts=1603967456784 200 166ms
+2020-10-29T10:33:07.121Z info: GET /api/v1/wzry/question?id=1&ts=1603967586921 200 176ms
+2020-10-29T10:33:26.468Z info: GET /api/v1/wzry/question?id=1&ts=1603967606272 200 181ms
+2020-10-29T10:35:22.438Z info: GET /api/v1/wzry/question?id=1&ts=1603967722252 200 169ms
+2020-10-29T10:36:23.022Z info: GET /api/v1/wzry/question?id=1&ts=1603967782837 200 164ms
+2020-10-29T10:36:31.003Z info: GET /api/v1/wzry/question?id=1&ts=1603967790826 200 160ms
+2020-10-29T10:36:48.816Z info: GET /api/v1/wzry/question?id=1&ts=1603967808641 200 160ms
+2020-10-29T10:37:11.892Z info: GET /api/v1/wzry/question?id=1&ts=1603967831705 200 164ms
+2020-10-29T10:37:39.783Z info: GET /api/v1/wzry/question?id=1&ts=1603967859591 200 160ms
+2020-10-29T10:37:55.092Z info: GET /api/v1/wzry/question?id=1&ts=1603967874905 200 161ms
+2020-10-29T10:38:20.745Z info: GET /api/v1/wzry/question?id=1&ts=1603967900567 200 162ms
+2020-10-29T10:39:04.565Z info: GET /api/v1/wzry/question?id=1&ts=1603967944383 200 167ms
+2020-10-29T10:39:05.761Z info: GET /api/v1/wzry/question?id=2&ts=1603967945590 200 158ms
+2020-10-29T10:40:31.814Z info: GET /api/v1/wzry/question?id=1&ts=1603968031638 200 157ms
+2020-10-29T10:40:33.285Z info: GET /api/v1/wzry/question?id=2&ts=1603968033106 200 162ms
+2020-10-29T10:40:58.496Z info: GET /api/v1/wzry/question?id=1&ts=1603968058317 200 163ms
+2020-10-29T10:41:00.736Z info: GET /api/v1/wzry/question?id=2&ts=1603968060564 200 158ms
+2020-10-29T10:41:24.803Z info: GET /api/v1/wzry/question?id=1&ts=1603968084625 200 160ms
+2020-10-29T10:41:25.954Z info: GET /api/v1/wzry/question?id=2&ts=1603968085786 200 157ms
+2020-10-29T10:41:40.028Z info: GET /api/v1/wzry/question?id=1&ts=1603968099853 200 161ms
+2020-10-29T10:43:00.418Z info: GET /api/v1/wzry/question?id=1&ts=1603968180241 200 162ms
+2020-10-29T10:43:42.750Z info: GET /api/v1/wzry/question?id=1&ts=1603968222574 200 160ms
+2020-10-29T10:44:00.214Z info: GET /api/v1/wzry/question?id=1&ts=1603968240025 200 167ms
+2020-10-29T10:44:39.968Z info: GET /api/v1/wzry/question?id=1&ts=1603968279795 200 158ms
+2020-10-29T10:44:43.713Z info: GET /api/v1/wzry/question?id=1&ts=1603968283539 200 163ms
+2020-10-29T10:45:14.295Z info: GET /api/v1/wzry/question?id=1&ts=1603968314109 200 160ms
+2020-10-29T10:45:29.770Z info: GET /api/v1/wzry/question?id=1&ts=1603968329598 200 159ms
+2020-10-29T10:45:30.712Z info: GET /api/v1/wzry/question?id=2&ts=1603968330487 200 212ms
+2020-10-29T10:45:39.753Z info: GET /api/v1/wzry/question?id=3&ts=1603968339572 200 169ms
+2020-10-29T10:46:00.124Z info: GET /api/v1/wzry/question?id=5&ts=1603968359951 200 162ms
+2020-10-29T10:50:23.390Z info: GET /api/v1/wzry/question?id=1&ts=1603968623215 200 162ms
+2020-10-29T10:50:33.705Z info: GET /api/v1/wzry/question?id=2&ts=1603968633534 200 159ms
+2020-10-29T10:51:01.254Z info: GET /api/v1/wzry/question?id=1&ts=1603968661061 200 170ms
+2020-10-29T10:51:03.118Z info: GET /api/v1/wzry/question?id=2&ts=1603968662935 200 159ms
+2020-10-29T10:51:30.116Z info: GET /api/v1/wzry/question?id=3&ts=1603968689944 200 161ms
+2020-10-29T10:51:32.722Z info: GET /api/v1/wzry/question?id=5&ts=1603968692549 200 164ms
+2020-10-29T10:52:56.743Z info: GET /api/v1/wzry/question?id=1&ts=1603968776551 200 161ms
+2020-10-29T10:52:58.338Z info: GET /api/v1/wzry/question?id=2&ts=1603968778156 200 156ms
+2020-10-29T10:53:00.548Z info: GET /api/v1/wzry/question?id=5&ts=1603968780369 200 166ms
+2020-10-29T10:54:18.212Z info: GET /api/v1/wzry/question?id=1&ts=1603968858022 200 175ms
+2020-10-29T10:54:19.264Z info: GET /api/v1/wzry/question?id=2&ts=1603968859088 200 158ms
+2020-10-29T10:54:21.638Z info: GET /api/v1/wzry/question?id=3&ts=1603968861466 200 158ms
+2020-10-29T10:54:28.252Z info: GET /api/v1/wzry/question?id=5&ts=1603968868076 200 165ms
+2020-10-29T10:54:37.052Z info: GET /api/v1/wzry/question?id=1&ts=1603968876863 200 163ms
+2020-10-29T10:54:37.907Z info: GET /api/v1/wzry/question?id=2&ts=1603968877718 200 160ms
+2020-10-29T10:54:40.969Z info: GET /api/v1/wzry/question?id=3&ts=1603968880778 200 179ms
+2020-10-29T10:54:47.731Z info: GET /api/v1/wzry/question?id=5&ts=1603968887561 200 159ms
+2020-10-29T10:54:59.284Z info: GET /api/v1/wzry/question?id=1&ts=1603968899109 200 160ms
+2020-10-29T10:55:00.341Z info: GET /api/v1/wzry/question?id=2&ts=1603968900159 200 159ms
+2020-10-29T10:55:02.016Z info: GET /api/v1/wzry/question?id=3&ts=1603968901848 200 158ms
+2020-10-29T10:55:25.167Z info: GET /api/v1/wzry/question?id=1&ts=1603968924990 200 159ms
+2020-10-29T10:55:26.050Z info: GET /api/v1/wzry/question?id=2&ts=1603968925871 200 159ms
+2020-10-29T10:55:27.393Z info: GET /api/v1/wzry/question?id=5&ts=1603968927198 200 175ms
+2020-10-29T10:55:28.435Z info: GET /api/v1/wzry/question?id=6&ts=1603968928258 200 158ms
+2020-10-29T10:55:29.652Z info: GET /api/v1/wzry/question?id=8&ts=1603968929466 200 158ms
+2020-10-29T10:55:57.258Z info: GET /api/v1/wzry/question?id=1&ts=1603968957085 200 159ms
+2020-10-29T10:55:58.005Z info: GET /api/v1/wzry/question?id=2&ts=1603968957836 200 158ms
+2020-10-29T10:55:58.808Z info: GET /api/v1/wzry/question?id=5&ts=1603968958640 200 158ms
+2020-10-29T10:55:59.662Z info: GET /api/v1/wzry/question?id=6&ts=1603968959490 200 162ms
+2020-10-29T10:56:20.420Z info: GET /api/v1/wzry/question?id=1&ts=1603968980242 200 164ms
+2020-10-29T10:56:21.518Z info: GET /api/v1/wzry/question?id=3&ts=1603968981347 200 159ms
+2020-10-29T10:56:22.609Z info: GET /api/v1/wzry/question?id=5&ts=1603968982439 200 161ms
+2020-10-29T10:56:24.172Z info: GET /api/v1/wzry/question?id=8&ts=1603968984001 200 159ms
+2020-10-29T10:56:47.642Z info: GET /api/v1/wzry/question?id=1&ts=1603969007463 200 160ms
+2020-10-29T10:56:48.528Z info: GET /api/v1/wzry/question?id=2&ts=1603969008358 200 156ms
+2020-10-29T10:56:51.297Z info: GET /api/v1/wzry/question?id=3&ts=1603969011124 200 161ms
+2020-10-29T10:56:53.022Z info: GET /api/v1/wzry/question?id=5&ts=1603969012848 200 163ms
+2020-10-29T10:56:59.084Z info: GET /api/v1/wzry/question?id=1&ts=1603969018911 200 159ms
+2020-10-29T10:57:00.048Z info: GET /api/v1/wzry/question?id=2&ts=1603969019866 200 167ms
+2020-10-29T10:57:04.379Z info: GET /api/v1/wzry/question?id=5&ts=1603969024203 200 163ms
+2020-10-29T10:57:06.517Z info: GET /api/v1/wzry/question?id=6&ts=1603969026325 200 176ms
+2020-10-29T10:57:13.509Z info: GET /api/v1/wzry/question?id=1&ts=1603969033330 200 162ms
+2020-10-29T10:57:14.455Z info: GET /api/v1/wzry/question?id=2&ts=1603969034282 200 161ms
+2020-10-29T10:57:25.366Z info: GET /api/v1/wzry/question?id=3&ts=1603969045195 200 161ms
+2020-10-29T10:57:27.164Z info: GET /api/v1/wzry/question?id=4&ts=1603969046990 200 164ms
+2020-10-29T10:57:28.821Z info: GET /api/v1/wzry/question?id=7&ts=1603969048650 200 160ms
+2020-10-29T10:57:49.732Z info: GET /api/v1/wzry/question?id=1&ts=1603969069553 200 163ms
+2020-10-29T10:57:50.838Z info: GET /api/v1/wzry/question?id=2&ts=1603969070668 200 160ms
+2020-10-29T10:57:53.875Z info: GET /api/v1/wzry/question?id=5&ts=1603969073704 200 159ms
+2020-10-29T10:57:55.349Z info: GET /api/v1/wzry/question?id=6&ts=1603969075180 200 158ms
+2020-10-29T10:57:56.651Z info: GET /api/v1/wzry/question?id=8&ts=1603969076470 200 169ms
+2020-10-29T10:58:04.914Z info: GET /api/v1/wzry/question?id=1&ts=1603969084740 200 160ms
+2020-10-29T10:58:05.928Z info: GET /api/v1/wzry/question?id=2&ts=1603969085758 200 160ms
+2020-10-29T10:58:07.298Z info: GET /api/v1/wzry/question?id=5&ts=1603969087129 200 158ms
+2020-10-29T10:58:34.914Z info: GET /api/v1/wzry/question?id=1&ts=1603969114742 200 158ms
+2020-10-29T10:58:35.786Z info: GET /api/v1/wzry/question?id=2&ts=1603969115611 200 159ms
+2020-10-29T10:58:40.111Z info: GET /api/v1/wzry/question?id=5&ts=1603969119941 200 159ms
+2020-10-29T10:58:44.359Z info: GET /api/v1/wzry/question?id=6&ts=1603969124188 200 161ms
+2020-10-29T10:58:51.262Z info: GET /api/v1/wzry/question?id=8&ts=1603969131092 200 159ms
+2020-10-29T11:00:27.959Z info: GET /api/v1/wzry/question?id=1&ts=1603969227784 200 158ms
+2020-10-29T11:00:28.859Z info: GET /api/v1/wzry/question?id=2&ts=1603969228690 200 157ms
+2020-10-29T11:00:29.804Z info: GET /api/v1/wzry/question?id=5&ts=1603969229634 200 159ms
+2020-10-29T11:00:30.650Z info: GET /api/v1/wzry/question?id=6&ts=1603969230482 200 157ms
+2020-10-30T01:11:23.083Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:11:24.159Z info: 数据库连接成功>>
+2020-10-30T01:12:05.085Z info: GET /api/v1/wzry/question?id=1&ts=1604020324875 200 186ms
+2020-10-30T01:12:06.602Z info: GET /api/v1/wzry/question?id=2&ts=1604020326398 200 171ms
+2020-10-30T01:12:07.831Z info: GET /api/v1/wzry/question?id=5&ts=1604020327652 200 164ms
+2020-10-30T01:12:09.248Z info: GET /api/v1/wzry/question?id=6&ts=1604020329054 200 168ms
+2020-10-30T01:12:33.980Z info: GET /api/v1/wzry/question?id=1&ts=1604020353792 200 171ms
+2020-10-30T01:12:37.879Z info: GET /api/v1/wzry/question?id=2&ts=1604020357703 200 165ms
+2020-10-30T01:15:25.499Z info: GET /api/v1/wzry/question?id=1&ts=1604020525297 200 187ms
+2020-10-30T01:15:26.578Z info: GET /api/v1/wzry/question?id=2&ts=1604020526386 200 176ms
+2020-10-30T01:15:50.073Z info: GET /api/v1/wzry/question?id=1&ts=1604020549881 200 177ms
+2020-10-30T01:15:51.136Z info: GET /api/v1/wzry/question?id=2&ts=1604020550941 200 185ms
+2020-10-30T01:15:52.310Z info: GET /api/v1/wzry/question?id=5&ts=1604020552136 200 165ms
+2020-10-30T01:15:54.858Z info: GET /api/v1/wzry/question?id=6&ts=1604020554682 200 168ms
+2020-10-30T01:16:18.596Z info: GET /api/v1/wzry/question?id=1&ts=1604020578408 200 173ms
+2020-10-30T01:16:20.035Z info: GET /api/v1/wzry/question?id=2&ts=1604020579836 200 187ms
+2020-10-30T01:16:21.009Z info: GET /api/v1/wzry/question?id=5&ts=1604020580826 200 171ms
+2020-10-30T01:16:21.825Z info: GET /api/v1/wzry/question?id=8&ts=1604020581634 200 170ms
+2020-10-30T01:16:22.629Z warn: GET /api/v1/wzry/result?options=ABDABEACDCE&results=131219&ts=1604020582614 404 2ms
+2020-10-30T01:16:38.950Z info: GET /api/v1/wzry/question?id=1&ts=1604020598765 200 165ms
+2020-10-30T01:16:40.146Z info: GET /api/v1/wzry/question?id=2&ts=1604020599961 200 169ms
+2020-10-30T01:16:40.692Z info: GET /api/v1/wzry/question?id=3&ts=1604020600508 200 172ms
+2020-10-30T01:16:41.463Z info: GET /api/v1/wzry/question?id=5&ts=1604020601267 200 170ms
+2020-10-30T01:16:42.281Z info: GET /api/v1/wzry/question?id=8&ts=1604020602100 200 169ms
+2020-10-30T01:16:43.234Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213 200 1ms
+2020-10-30T01:21:08.603Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:21:09.363Z info: 数据库连接成功>>
+2020-10-30T01:22:11.962Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:22:12.817Z info: 数据库连接成功>>
+2020-10-30T01:22:50.783Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:22:51.587Z info: 数据库连接成功>>
+2020-10-30T01:23:27.410Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213 200 8ms
+2020-10-30T01:23:27.659Z warn: GET /favicon.ico 404 4ms
+2020-10-30T01:24:00.231Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:24:01.082Z info: 数据库连接成功>>
+2020-10-30T01:24:04.290Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213 304 9ms
+2020-10-30T01:24:24.076Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:24:24.908Z info: 数据库连接成功>>
+2020-10-30T01:24:39.310Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:24:40.065Z info: 数据库连接成功>>
+2020-10-30T01:24:44.447Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213 304 10ms
+2020-10-30T01:28:08.368Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:28:09.275Z info: 数据库连接成功>>
+2020-10-30T01:28:11.546Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:28:12.245Z info: 数据库连接成功>>
+2020-10-30T01:28:17.635Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213 304 11ms
+2020-10-30T01:28:47.205Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:28:47.990Z info: 数据库连接成功>>
+2020-10-30T01:29:24.132Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:29:25.044Z info: 数据库连接成功>>
+2020-10-30T01:31:26.196Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:31:27.077Z info: 数据库连接成功>>
+2020-10-30T01:32:06.818Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:32:07.811Z info: 数据库连接成功>>
+2020-10-30T01:32:17.437Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:32:18.245Z info: 数据库连接成功>>
+2020-10-30T01:32:20.866Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213 304 17ms
+2020-10-30T01:32:40.493Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:32:41.617Z info: 数据库连接成功>>
+2020-10-30T01:32:54.629Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:32:55.673Z info: 数据库连接成功>>
+2020-10-30T01:34:11.905Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:34:12.737Z info: 数据库连接成功>>
+2020-10-30T01:35:11.827Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:35:12.648Z info: 数据库连接成功>>
+2020-10-30T01:35:28.087Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:35:28.975Z info: 数据库连接成功>>
+2020-10-30T01:36:18.354Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:36:19.172Z info: 数据库连接成功>>
+2020-10-30T01:36:22.222Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:36:23.004Z info: 数据库连接成功>>
+2020-10-30T01:37:29.532Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:37:30.356Z info: 数据库连接成功>>
+2020-10-30T01:37:32.266Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:37:33.143Z info: 数据库连接成功>>
+2020-10-30T01:37:55.264Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:37:56.287Z info: 数据库连接成功>>
+2020-10-30T01:39:20.397Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:39:21.266Z info: 数据库连接成功>>
+2020-10-30T01:39:31.921Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:39:32.774Z info: 数据库连接成功>>
+2020-10-30T01:55:36.213Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:55:37.319Z info: 数据库连接成功>>
+2020-10-30T01:56:14.446Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:56:15.232Z info: 数据库连接成功>>
+2020-10-30T01:57:03.646Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:57:04.416Z info: 数据库连接成功>>
+2020-10-30T01:57:47.631Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T01:57:48.442Z info: 数据库连接成功>>
+2020-10-30T01:59:03.177Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213 200 105ms
+2020-10-30T02:00:37.260Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T02:00:37.972Z info: 数据库连接成功>>
+2020-10-30T02:00:40.962Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213 304 89ms
+2020-10-30T02:01:37.694Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T02:01:50.263Z info: 数据库连接成功>>
+2020-10-30T02:01:54.013Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213&userId=1 200 815ms
+2020-10-30T02:02:51.422Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T02:02:52.280Z info: 数据库连接成功>>
+2020-10-30T02:02:56.688Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604020603213&userId=1 200 98ms
+2020-10-30T02:38:15.407Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T02:38:16.446Z info: 数据库连接成功>>
+2020-10-30T02:38:22.090Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T02:38:22.999Z info: 数据库连接成功>>
+2020-10-30T02:38:27.608Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T02:38:28.687Z info: 数据库连接成功>>
+2020-10-30T02:38:36.052Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T02:38:36.925Z info: 数据库连接成功>>
+2020-10-30T05:45:15.336Z info: GET /api/public/file/ext?path=1.jpg 304 6ms
+2020-10-30T05:45:15.497Z warn: GET /favicon.ico 404 3ms
+2020-10-30T05:45:25.706Z info: GET /api/public/file/ext?path=yase.jpg 200 1ms
+2020-10-30T05:45:27.891Z info: GET /api/public/file/ext?path=yase.jpg 304 1ms
+2020-10-30T05:45:59.542Z info: GET /api/public/file/ext?path=/heros/yase.jpg 200 6ms
+2020-10-30T05:46:13.507Z info: GET /api/public/file/ext?path=/heros/yase.jpg 200 2ms
+2020-10-30T05:49:53.782Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T05:50:58.900Z info: GET /api/public/file/ext?path=/heros/yase.jpg 200 4ms
+2020-10-30T05:52:38.613Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T05:53:14.816Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T05:53:25.465Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T05:53:56.050Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T05:54:28.436Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T05:55:40.392Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T05:56:43.337Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T05:57:23.055Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T05:57:27.573Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T05:57:40.468Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 4ms
+2020-10-30T05:58:14.433Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T05:58:33.854Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T05:59:49.977Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 6ms
+2020-10-30T06:01:35.337Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T06:02:59.506Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:03:23.433Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T06:03:34.180Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:04:34.580Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:04:47.845Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:05:21.866Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:05:28.917Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T06:06:43.127Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T06:07:32.141Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:07:40.842Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:07:45.679Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T06:09:33.078Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T06:09:44.461Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T06:09:56.359Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:10:04.232Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T06:10:19.856Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T06:10:27.699Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T06:10:37.300Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:12:01.929Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:12:11.881Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:12:49.554Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:12:58.911Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:13:08.586Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:13:21.140Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T06:14:15.422Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:14:38.516Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T06:15:08.038Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 5ms
+2020-10-30T06:15:44.396Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T06:18:03.032Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T06:18:13.521Z info: GET /api/v1/wzry/question?id=1&ts=1604038692981 200 522ms
+2020-10-30T06:18:14.691Z info: GET /api/v1/wzry/question?id=2&ts=1604038694494 200 187ms
+2020-10-30T06:18:15.500Z info: GET /api/v1/wzry/question?id=3&ts=1604038695316 200 173ms
+2020-10-30T06:18:16.327Z info: GET /api/v1/wzry/question?id=5&ts=1604038696138 200 179ms
+2020-10-30T06:18:17.091Z info: GET /api/v1/wzry/question?id=8&ts=1604038696894 200 165ms
+2020-10-30T06:18:17.849Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDCE&results=1461219&ts=1604038697740 200 90ms
+2020-10-30T06:18:18.762Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 6ms
+2020-10-30T06:18:18.779Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T07:15:19.307Z info: GET /api/v1/wzry/question?id=1&ts=1604042119042 200 247ms
+2020-10-30T07:15:20.982Z info: GET /api/v1/wzry/question?id=2&ts=1604042120755 200 217ms
+2020-10-30T07:15:21.767Z info: GET /api/v1/wzry/question?id=3&ts=1604042121558 200 200ms
+2020-10-30T07:15:22.957Z info: GET /api/v1/wzry/question?id=5&ts=1604042122383 200 565ms
+2020-10-30T07:15:23.840Z info: GET /api/v1/wzry/question?id=8&ts=1604042123609 200 221ms
+2020-10-30T07:15:24.650Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604042124536 200 102ms
+2020-10-30T07:15:25.507Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 4ms
+2020-10-30T07:15:25.534Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 6ms
+2020-10-30T07:15:56.506Z info: GET /api/v1/wzry/question?id=1&ts=1604042156323 200 163ms
+2020-10-30T07:15:57.266Z info: GET /api/v1/wzry/question?id=2&ts=1604042157086 200 165ms
+2020-10-30T07:15:57.995Z info: GET /api/v1/wzry/question?id=3&ts=1604042157811 200 164ms
+2020-10-30T07:15:58.778Z info: GET /api/v1/wzry/question?id=5&ts=1604042158598 200 164ms
+2020-10-30T07:15:59.506Z info: GET /api/v1/wzry/question?id=6&ts=1604042159327 200 166ms
+2020-10-30T07:16:00.278Z info: GET /api/v1/wzry/saveResult?options=ABDACDCBEBE&results=1461115&ts=1604042160179 200 85ms
+2020-10-30T07:16:01.172Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T07:17:26.891Z info: GET /api/v1/wzry/question?id=1&ts=1604042246713 200 163ms
+2020-10-30T07:17:27.914Z info: GET /api/v1/wzry/question?id=2&ts=1604042247738 200 164ms
+2020-10-30T07:17:28.646Z info: GET /api/v1/wzry/question?id=3&ts=1604042248466 200 170ms
+2020-10-30T07:17:29.430Z info: GET /api/v1/wzry/question?id=5&ts=1604042249251 200 168ms
+2020-10-30T07:17:30.122Z info: GET /api/v1/wzry/question?id=8&ts=1604042249944 200 169ms
+2020-10-30T07:17:30.881Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDCE&results=1461219&ts=1604042250783 200 86ms
+2020-10-30T07:17:31.778Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T07:18:07.902Z info: GET /api/v1/wzry/question?id=1&ts=1604042287718 200 165ms
+2020-10-30T07:18:08.918Z info: GET /api/v1/wzry/question?id=2&ts=1604042288743 200 165ms
+2020-10-30T07:18:09.637Z info: GET /api/v1/wzry/question?id=3&ts=1604042289447 200 177ms
+2020-10-30T07:18:10.340Z info: GET /api/v1/wzry/question?id=5&ts=1604042290166 200 162ms
+2020-10-30T07:18:11.064Z info: GET /api/v1/wzry/question?id=8&ts=1604042290877 200 175ms
+2020-10-30T07:18:11.812Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDCE&results=1461219&ts=1604042291713 200 85ms
+2020-10-30T07:18:12.746Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T07:18:38.000Z info: GET /api/v1/wzry/question?id=1&ts=1604042317782 200 193ms
+2020-10-30T07:18:38.790Z info: GET /api/v1/wzry/question?id=2&ts=1604042318611 200 165ms
+2020-10-30T07:18:39.456Z info: GET /api/v1/wzry/question?id=3&ts=1604042319280 200 166ms
+2020-10-30T07:18:40.231Z info: GET /api/v1/wzry/question?id=5&ts=1604042320043 200 176ms
+2020-10-30T07:18:40.959Z info: GET /api/v1/wzry/question?id=8&ts=1604042320770 200 169ms
+2020-10-30T07:18:41.809Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDCE&results=1461219&ts=1604042321715 200 84ms
+2020-10-30T07:18:42.694Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T07:21:09.635Z info: GET /api/v1/wzry/question?id=1&ts=1604042469447 200 173ms
+2020-10-30T07:21:10.638Z info: GET /api/v1/wzry/question?id=2&ts=1604042470457 200 171ms
+2020-10-30T07:21:11.384Z info: GET /api/v1/wzry/question?id=3&ts=1604042471192 200 181ms
+2020-10-30T07:21:12.140Z info: GET /api/v1/wzry/question?id=5&ts=1604042471966 200 164ms
+2020-10-30T07:21:12.905Z info: GET /api/v1/wzry/question?id=8&ts=1604042472726 200 168ms
+2020-10-30T07:21:13.631Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604042473526 200 94ms
+2020-10-30T07:21:14.498Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 3ms
+2020-10-30T07:22:44.021Z info: GET /api/v1/wzry/question?id=1&ts=1604042563841 200 165ms
+2020-10-30T07:22:45.430Z info: GET /api/v1/wzry/question?id=2&ts=1604042565255 200 163ms
+2020-10-30T07:22:46.632Z info: GET /api/v1/wzry/question?id=5&ts=1604042566445 200 167ms
+2020-10-30T07:22:48.009Z info: GET /api/v1/wzry/question?id=8&ts=1604042567826 200 169ms
+2020-10-30T07:22:48.962Z info: GET /api/v1/wzry/saveResult?options=ABDABEACDCE&results=131219&ts=1604042568853 200 87ms
+2020-10-30T07:22:49.826Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T07:23:16.879Z info: GET /api/v1/wzry/question?id=1&ts=1604042596689 200 171ms
+2020-10-30T07:23:18.323Z info: GET /api/v1/wzry/question?id=3&ts=1604042598135 200 169ms
+2020-10-30T07:23:21.163Z info: GET /api/v1/wzry/question?id=6&ts=1604042600941 200 198ms
+2020-10-30T07:23:23.509Z info: GET /api/v1/wzry/question?id=7&ts=1604042603316 200 169ms
+2020-10-30T07:23:26.041Z info: GET /api/v1/wzry/question?id=8&ts=1604042605849 200 182ms
+2020-10-30T07:23:28.153Z info: GET /api/v1/wzry/saveResult?options=ACEBECBCDECE&results=27131719&ts=1604042608054 200 89ms
+2020-10-30T07:23:28.970Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T07:23:49.322Z info: POST /api/v1/wzry/login 200 544ms
+2020-10-30T07:23:49.583Z info: GET /api/v1/wzry/question?id=1&ts=1604042629399 200 167ms
+2020-10-30T07:23:53.297Z info: GET /api/v1/wzry/question?id=3&ts=1604042633117 200 169ms
+2020-10-30T07:23:54.573Z info: GET /api/v1/wzry/question?id=6&ts=1604042634388 200 174ms
+2020-10-30T07:23:57.318Z info: GET /api/v1/wzry/question?id=7&ts=1604042637091 200 217ms
+2020-10-30T07:23:59.017Z info: GET /api/v1/wzry/question?id=8&ts=1604042638838 200 169ms
+2020-10-30T07:24:00.072Z info: GET /api/v1/wzry/saveResult?options=ACEBECBCDECE&results=27131719&ts=1604042639976 200 86ms
+2020-10-30T07:24:01.125Z info: GET /api/public/file/ext?path=/heros/yase.jpg 200 4ms
+2020-10-30T07:25:44.537Z info: GET /api/v1/wzry/question?id=1&ts=1604042744353 200 167ms
+2020-10-30T07:25:45.552Z info: GET /api/v1/wzry/question?id=2&ts=1604042745272 200 267ms
+2020-10-30T07:25:46.246Z info: GET /api/v1/wzry/question?id=3&ts=1604042746069 200 167ms
+2020-10-30T07:25:46.984Z info: GET /api/v1/wzry/question?id=5&ts=1604042746810 200 164ms
+2020-10-30T07:25:48.040Z info: GET /api/v1/wzry/question?id=6&ts=1604042747861 200 169ms
+2020-10-30T07:25:48.990Z info: GET /api/v1/wzry/saveResult?options=ABDACDCBEBE&results=1461115&ts=1604042748894 200 85ms
+2020-10-30T07:25:50.033Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T07:26:10.285Z info: GET /api/v1/wzry/question?id=1&ts=1604042770107 200 162ms
+2020-10-30T07:26:11.683Z info: GET /api/v1/wzry/question?id=3&ts=1604042771507 200 164ms
+2020-10-30T07:26:14.390Z info: GET /api/v1/wzry/question?id=6&ts=1604042774217 200 163ms
+2020-10-30T07:26:15.455Z info: GET /api/v1/wzry/saveResult?options=ACEBEBE&results=2715&ts=1604042775361 200 82ms
+2020-10-30T07:26:39.190Z info: GET /api/v1/wzry/question?id=1&ts=1604042799011 200 163ms
+2020-10-30T07:26:40.279Z info: GET /api/v1/wzry/question?id=2&ts=1604042800104 200 163ms
+2020-10-30T07:26:42.632Z info: GET /api/v1/wzry/question?id=5&ts=1604042802453 200 165ms
+2020-10-30T07:26:44.323Z info: GET /api/v1/wzry/question?id=6&ts=1604042804148 200 163ms
+2020-10-30T07:26:45.608Z info: GET /api/v1/wzry/saveResult?options=ABDABEBEBE&results=131115&ts=1604042805512 200 82ms
+2020-10-30T07:26:46.513Z info: GET /api/public/file/ext?path=/heros/cwj.jpg 200 11ms
+2020-10-30T07:27:19.138Z info: GET /api/v1/wzry/question?id=1&ts=1604042838958 200 165ms
+2020-10-30T07:27:22.194Z info: GET /api/v1/wzry/question?id=2&ts=1604042842009 200 162ms
+2020-10-30T07:27:23.203Z info: GET /api/v1/wzry/question?id=3&ts=1604042843015 200 170ms
+2020-10-30T07:27:24.416Z info: GET /api/v1/wzry/question?id=5&ts=1604042844229 200 167ms
+2020-10-30T07:27:25.137Z info: GET /api/v1/wzry/question?id=6&ts=1604042844933 200 179ms
+2020-10-30T07:27:25.787Z info: GET /api/v1/wzry/saveResult?options=ABDACDCBEBE&results=1461115&ts=1604042845672 200 86ms
+2020-10-30T07:27:26.808Z info: GET /api/public/file/ext?path=/heros/cwj.jpg 304 1ms
+2020-10-30T07:36:11.069Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T07:36:11.996Z info: 数据库连接成功>>
+2020-10-30T07:37:34.836Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T07:37:35.721Z info: 数据库连接成功>>
+2020-10-30T07:37:37.735Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-10-30T07:37:38.526Z info: 数据库连接成功>>
+2020-10-30T07:42:04.875Z info: GET /api/v1/wzry/question?id=1&ts=1604043724685 200 166ms
+2020-10-30T07:42:05.981Z info: GET /api/v1/wzry/question?id=2&ts=1604043725796 200 162ms
+2020-10-30T07:42:06.740Z info: GET /api/v1/wzry/question?id=3&ts=1604043726574 200 146ms
+2020-10-30T07:42:07.530Z info: GET /api/v1/wzry/question?id=5&ts=1604043727351 200 144ms
+2020-10-30T07:42:08.535Z info: GET /api/v1/wzry/question?id=6&ts=1604043728376 200 140ms
+2020-10-30T07:42:09.323Z info: GET /api/v1/wzry/saveResult?options=ABDACDCBEBE&results=1461115&ts=1604043729234 200 78ms
+2020-10-30T07:42:10.174Z info: GET /api/public/file/ext?path=/heros/cwj.jpg 304 7ms
+2020-10-30T07:42:34.559Z info: GET /api/v1/wzry/question?id=1&ts=1604043754366 200 169ms
+2020-10-30T07:42:35.413Z info: GET /api/v1/wzry/question?id=2&ts=1604043755223 200 173ms
+2020-10-30T07:42:36.150Z info: GET /api/v1/wzry/question?id=3&ts=1604043755931 200 185ms
+2020-10-30T07:42:36.974Z info: GET /api/v1/wzry/question?id=5&ts=1604043756790 200 167ms
+2020-10-30T07:42:37.659Z info: GET /api/v1/wzry/question?id=8&ts=1604043757465 200 174ms
+2020-10-30T07:42:38.483Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDCE&results=1461219&ts=1604043758381 200 89ms
+2020-10-30T07:42:39.354Z info: GET /api/public/file/ext?path=/heros/llw.jpg 200 7ms
+2020-10-30T07:42:48.540Z info: GET /api/v1/wzry/question?id=1&ts=1604043768375 200 144ms
+2020-10-30T07:42:49.926Z info: GET /api/v1/wzry/question?id=3&ts=1604043769762 200 140ms
+2020-10-30T07:42:50.629Z info: GET /api/v1/wzry/question?id=5&ts=1604043770469 200 142ms
+2020-10-30T07:42:51.859Z info: GET /api/v1/wzry/question?id=8&ts=1604043771703 200 144ms
+2020-10-30T07:42:52.469Z info: GET /api/v1/wzry/saveResult?options=ACECACDAD&results=261220&ts=1604043772369 200 72ms
+2020-10-30T07:42:53.330Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T07:43:11.826Z info: GET /api/v1/wzry/question?id=1&ts=1604043791670 200 140ms
+2020-10-30T07:43:13.067Z info: GET /api/v1/wzry/question?id=2&ts=1604043792903 200 138ms
+2020-10-30T07:43:13.917Z info: GET /api/v1/wzry/question?id=3&ts=1604043793762 200 137ms
+2020-10-30T07:43:14.862Z info: GET /api/v1/wzry/question?id=5&ts=1604043794712 200 139ms
+2020-10-30T07:43:15.558Z info: GET /api/v1/wzry/question?id=8&ts=1604043795395 200 153ms
+2020-10-30T07:43:16.398Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDAD&results=1461220&ts=1604043796316 200 71ms
+2020-10-30T07:43:17.336Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 2ms
+2020-10-30T07:43:45.556Z info: GET /api/v1/wzry/question?id=1&ts=1604043825401 200 139ms
+2020-10-30T07:43:46.468Z info: GET /api/v1/wzry/question?id=2&ts=1604043826307 200 141ms
+2020-10-30T07:43:47.200Z info: GET /api/v1/wzry/question?id=3&ts=1604043827034 200 140ms
+2020-10-30T07:43:48.060Z info: GET /api/v1/wzry/question?id=6&ts=1604043827898 200 142ms
+2020-10-30T07:43:48.762Z info: GET /api/v1/wzry/saveResult?options=ABDACDBEBE&results=14715&ts=1604043828680 200 71ms
+2020-10-30T07:43:49.607Z info: GET /api/public/file/ext?path=/heros/cwj.jpg 304 2ms
+2020-10-30T07:44:26.798Z info: GET /api/v1/wzry/question?id=1&ts=1604043866644 200 139ms
+2020-10-30T07:44:27.659Z info: GET /api/v1/wzry/question?id=2&ts=1604043867493 200 141ms
+2020-10-30T07:44:28.398Z info: GET /api/v1/wzry/question?id=3&ts=1604043868247 200 138ms
+2020-10-30T07:44:29.166Z info: GET /api/v1/wzry/question?id=5&ts=1604043869010 200 144ms
+2020-10-30T07:44:30.328Z info: GET /api/v1/wzry/question?id=8&ts=1604043870173 200 145ms
+2020-10-30T07:44:30.968Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDCE&results=1461219&ts=1604043870884 200 73ms
+2020-10-30T07:44:31.859Z info: GET /api/public/file/ext?path=/heros/llw.jpg 304 2ms
+2020-10-30T07:45:18.035Z info: GET /api/v1/wzry/question?id=1&ts=1604043917870 200 147ms
+2020-10-30T07:46:56.933Z info: GET /api/v1/wzry/question?id=2&ts=1604044016749 200 170ms
+2020-10-30T07:46:58.410Z info: GET /api/v1/wzry/question?id=5&ts=1604044018254 200 144ms
+2020-10-30T07:47:00.393Z info: GET /api/v1/wzry/question?id=8&ts=1604044020231 200 151ms
+2020-10-30T07:47:01.410Z info: GET /api/v1/wzry/saveResult?options=ABDABEACDCE&results=131219&ts=1604044021329 200 69ms
+2020-10-30T07:47:02.296Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 1ms
+2020-10-30T07:47:50.536Z info: GET /api/v1/wzry/question?id=1&ts=1604044070358 200 163ms
+2020-10-30T07:47:51.794Z info: GET /api/v1/wzry/question?id=2&ts=1604044071617 200 167ms
+2020-10-30T07:47:53.862Z info: GET /api/v1/wzry/question?id=5&ts=1604044073680 200 171ms
+2020-10-30T07:47:55.216Z info: GET /api/v1/wzry/question?id=6&ts=1604044075064 200 142ms
+2020-10-30T07:47:56.518Z info: GET /api/v1/wzry/saveResult?options=ABDABEBEBE&results=131115&ts=1604044076433 200 74ms
+2020-10-30T07:47:57.484Z info: GET /api/public/file/ext?path=/heros/cwj.jpg 304 2ms
+2020-10-30T07:48:48.848Z info: GET /api/v1/wzry/question?id=1&ts=1604044128694 200 139ms
+2020-10-30T07:48:49.533Z info: GET /api/v1/wzry/question?id=2&ts=1604044129380 200 140ms
+2020-10-30T07:48:50.138Z info: GET /api/v1/wzry/question?id=3&ts=1604044129985 200 139ms
+2020-10-30T07:48:51.053Z info: GET /api/v1/wzry/question?id=5&ts=1604044130901 200 142ms
+2020-10-30T07:48:51.711Z info: GET /api/v1/wzry/question?id=8&ts=1604044131560 200 139ms
+2020-10-30T07:48:52.418Z info: GET /api/v1/wzry/saveResult?options=ABDACDCACDCE&results=1461219&ts=1604044132334 200 73ms
+2020-10-30T07:48:53.279Z info: GET /api/public/file/ext?path=/heros/llw.jpg 304 1ms
+2020-10-30T07:49:06.767Z info: GET /api/v1/wzry/question?id=1&ts=1604044146607 200 139ms
+2020-10-30T07:49:07.427Z info: GET /api/v1/wzry/question?id=2&ts=1604044147276 200 135ms
+2020-10-30T07:49:08.074Z info: GET /api/v1/wzry/question?id=3&ts=1604044147920 200 141ms
+2020-10-30T07:49:08.645Z info: GET /api/v1/wzry/question?id=5&ts=1604044148487 200 145ms
+2020-10-30T07:49:09.247Z info: GET /api/v1/wzry/question?id=6&ts=1604044149089 200 144ms
+2020-10-30T07:49:09.832Z info: GET /api/v1/wzry/saveResult?options=ABDACDCBEBE&results=1461115&ts=1604044149749 200 70ms
+2020-10-30T07:49:10.732Z info: GET /api/public/file/ext?path=/heros/cwj.jpg 304 4ms
+2020-11-03T01:37:40.873Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-11-03T01:37:42.090Z info: 数据库连接成功>>
+2020-11-03T01:37:47.057Z info: GET /api/v1/wzry/question?id=1&ts=1604367466830 200 203ms
+2020-11-03T01:37:55.998Z info: GET /api/v1/wzry/question?id=2&ts=1604367475830 200 158ms
+2020-11-03T01:38:05.365Z info: GET /api/v1/wzry/question?id=3&ts=1604367485187 200 165ms
+2020-11-03T01:38:11.361Z info: GET /api/v1/wzry/question?id=4&ts=1604367491186 200 162ms
+2020-11-03T01:38:16.470Z info: GET /api/v1/wzry/question?id=5&ts=1604367496266 200 175ms
+2020-11-03T01:38:19.607Z info: GET /api/v1/wzry/question?id=6&ts=1604367499433 200 161ms
+2020-11-03T01:38:21.970Z info: GET /api/v1/wzry/question?id=7&ts=1604367501800 200 158ms
+2020-11-03T01:38:24.177Z info: GET /api/v1/wzry/question?id=8&ts=1604367503992 200 157ms
+2020-11-03T01:38:27.629Z info: GET /api/v1/wzry/question?id=9&ts=1604367507274 200 329ms
+2020-11-03T01:38:28.928Z info: GET /api/v1/wzry/saveResult?options=ACEABEFGACDFCFBEFADGAGCEF&results=23225811141619&ts=1604367508794 200 93ms
+2020-11-03T01:38:30.136Z info: GET /api/public/file/ext?path=/heros/yase.jpg 304 5ms
+2020-11-03T01:39:56.951Z info: GET /api/v1/wzry/question?id=1&ts=1604367596778 200 157ms
+2020-11-03T01:39:58.265Z info: GET /api/v1/wzry/question?id=2&ts=1604367598092 200 159ms
+2020-11-03T01:39:59.681Z info: GET /api/v1/wzry/question?id=3&ts=1604367599503 200 159ms
+2020-11-03T01:40:03.395Z info: GET /api/v1/wzry/question?id=11&ts=1604367603213 200 161ms
+2020-11-03T01:40:05.568Z info: GET /api/v1/wzry/question?id=12&ts=1604367605396 200 161ms
+2020-11-03T01:40:07.146Z info: GET /api/v1/wzry/question?id=4&ts=1604367606965 200 168ms
+2020-11-03T01:40:10.936Z info: GET /api/v1/wzry/question?id=5&ts=1604367610753 200 172ms
+2020-11-03T01:40:13.567Z info: GET /api/v1/wzry/question?id=6&ts=1604367613389 200 164ms
+2020-11-03T01:40:17.829Z info: GET /api/v1/wzry/question?id=7&ts=1604367617635 200 175ms
+2020-11-03T01:40:19.984Z info: GET /api/v1/wzry/question?id=8&ts=1604367619808 200 159ms
+2020-11-03T01:40:23.639Z info: GET /api/v1/wzry/question?id=9&ts=1604367623463 200 158ms
+2020-11-03T01:40:25.853Z info: GET /api/v1/wzry/saveResult?options=ABDGABEFGFBBFGBEFDFCFBEFBEGFBCDEFCEF&results=132324295811151719&ts=1604367625760 200 82ms
+2020-11-03T01:40:26.695Z info: GET /api/public/file/ext?path=null 200 1ms
+2020-11-03T01:40:26.746Z info: GET /api/public/file/ext?path=null 304 1ms
+2020-11-03T02:00:16.506Z info: GET /api/v1/wzry/question?id=1&ts=1604368816335 200 155ms
+2020-11-03T02:00:17.739Z info: GET /api/v1/wzry/question?id=2&ts=1604368817564 200 164ms
+2020-11-03T02:00:20.417Z info: GET /api/v1/wzry/question?id=3&ts=1604368820243 200 158ms
+2020-11-03T02:00:23.200Z info: GET /api/v1/wzry/question?id=11&ts=1604368823028 200 161ms
+2020-11-03T02:00:24.268Z info: GET /api/v1/wzry/question?id=12&ts=1604368824094 200 162ms
+2020-11-03T02:00:27.175Z info: GET /api/v1/wzry/question?id=4&ts=1604368827001 200 160ms
+2020-11-03T02:00:29.968Z info: GET /api/v1/wzry/question?id=5&ts=1604368829793 200 161ms
+2020-11-03T02:00:31.954Z info: GET /api/v1/wzry/question?id=6&ts=1604368831735 200 209ms
+2020-11-03T02:00:34.197Z info: GET /api/v1/wzry/question?id=7&ts=1604368834021 200 161ms
+2020-11-03T02:00:37.984Z info: GET /api/v1/wzry/question?id=8&ts=1604368837810 200 162ms
+2020-11-03T02:00:41.457Z info: GET /api/v1/wzry/question?id=9&ts=1604368841251 200 175ms
+2020-11-03T02:00:43.595Z info: GET /api/v1/wzry/saveResult?options=ABDGABEFGFBEBFGBEFBEACFBEFBEGFAGCEF&results=132324297811151619&ts=1604368843498 200 85ms
+2020-11-03T02:00:44.468Z info: GET /api/public/file/ext?path=/heros/cwj.jpg 304 2ms
+2020-11-03T02:00:44.484Z info: GET /api/public/file/ext?path=/heros/cwj.jpg 304 15ms
+2020-11-03T02:00:53.314Z info: GET /api/v1/wzry/question?id=1&ts=1604368853143 200 160ms
+2020-11-03T02:00:54.731Z info: GET /api/v1/wzry/question?id=2&ts=1604368854552 200 169ms
+2020-11-03T02:00:55.806Z info: GET /api/v1/wzry/question?id=3&ts=1604368855639 200 157ms
+2020-11-03T02:00:57.181Z info: GET /api/v1/wzry/question?id=11&ts=1604368857011 200 159ms
+2020-11-03T02:00:58.287Z info: GET /api/v1/wzry/question?id=12&ts=1604368858111 200 166ms
+2020-11-03T02:00:59.691Z info: GET /api/v1/wzry/question?id=4&ts=1604368859503 200 176ms
+2020-11-03T02:01:03.090Z info: GET /api/v1/wzry/question?id=5&ts=1604368862915 200 162ms
+2020-11-03T02:01:06.777Z info: GET /api/v1/wzry/question?id=6&ts=1604368866602 200 162ms
+2020-11-03T02:01:08.057Z info: GET /api/v1/wzry/question?id=7&ts=1604368867885 200 157ms
+2020-11-03T02:01:09.318Z info: GET /api/v1/wzry/question?id=8&ts=1604368869141 200 158ms
+2020-11-03T02:01:12.797Z info: GET /api/v1/wzry/question?id=9&ts=1604368872623 200 160ms
+2020-11-03T02:01:14.041Z info: GET /api/v1/wzry/saveResult?options=ABDGABEFGFBEBFGBEFBEACFBEFBEGFBCDEFCEF&results=132324297811151719&ts=1604368873941 200 84ms
+2020-11-03T02:01:14.904Z info: GET /api/public/file/ext?path=/heros/cwj.jpg 304 2ms
+2020-11-03T02:02:23.463Z info: GET /api/v1/wzry/question?id=1&ts=1604368943251 200 157ms
+2020-11-03T02:02:23.543Z info: GET /api/v1/wzry/question?id=1&ts=1604368943288 200 232ms
+2020-11-03T02:02:23.597Z info: GET /api/v1/wzry/question?id=1&ts=1604368943322 200 263ms
+2020-11-03T02:02:23.620Z info: GET /api/v1/wzry/question?id=1&ts=1604368943333 200 229ms
+2020-11-03T02:02:26.167Z info: GET /api/v1/wzry/question?id=2&ts=1604368946001 200 156ms
+2020-11-03T02:02:28.030Z info: GET /api/v1/wzry/question?id=3&ts=1604368947849 200 166ms
+2020-11-03T02:02:29.431Z info: GET /api/v1/wzry/question?id=11&ts=1604368949271 200 149ms
+2020-11-03T02:02:30.581Z info: GET /api/v1/wzry/question?id=12&ts=1604368950387 200 183ms
+2020-11-03T02:02:31.890Z info: GET /api/v1/wzry/question?id=4&ts=1604368951723 200 157ms
+2020-11-03T02:02:36.185Z info: GET /api/v1/wzry/question?id=5&ts=1604368955999 200 173ms
+2020-11-03T02:02:43.353Z info: GET /api/v1/wzry/question?id=6&ts=1604368963192 200 150ms
+2020-11-03T02:02:45.041Z info: GET /api/v1/wzry/question?id=7&ts=1604368964861 200 169ms
+2020-11-03T02:02:46.434Z info: GET /api/v1/wzry/question?id=8&ts=1604368966258 200 157ms
+2020-11-03T02:02:50.814Z info: GET /api/v1/wzry/question?id=9&ts=1604368970633 200 168ms
+2020-11-03T02:02:51.849Z info: GET /api/v1/wzry/saveResult?options=ABDGABEFGFBFGBEFDFACFBEFBEGFBCDEFCEF&results=132324295811151719&ts=1604368971765 200 71ms
+2020-11-03T02:02:52.825Z info: GET /api/public/file/ext?path=/heros/jialuo.jpg 200 5ms
+2020-11-03T02:03:02.051Z info: GET /api/v1/wzry/question?id=1&ts=1604368981844 200 160ms
+2020-11-03T02:03:02.108Z info: GET /api/v1/wzry/question?id=1&ts=1604368981896 200 149ms
+2020-11-03T02:03:02.113Z info: GET /api/v1/wzry/question?id=1&ts=1604368981859 200 157ms
+2020-11-03T02:03:24.393Z info: GET /api/v1/wzry/question?id=2&ts=1604369004208 200 171ms
+2020-11-03T02:03:26.690Z info: GET /api/v1/wzry/question?id=3&ts=1604369006530 200 148ms
+2020-11-03T02:03:27.984Z info: GET /api/v1/wzry/question?id=11&ts=1604369007802 200 171ms
+2020-11-03T02:03:29.717Z info: GET /api/v1/wzry/question?id=12&ts=1604369009547 200 160ms
+2020-11-03T02:03:31.797Z info: GET /api/v1/wzry/question?id=4&ts=1604369011581 200 206ms
+2020-11-03T02:03:36.067Z info: GET /api/v1/wzry/question?id=5&ts=1604369015903 200 152ms
+2020-11-03T02:03:46.668Z info: GET /api/v1/wzry/question?id=6&ts=1604369026467 200 174ms
+2020-11-03T02:04:36.743Z info: GET /api/v1/wzry/question?id=7&ts=1604369076571 200 147ms
+2020-11-03T02:04:39.703Z info: GET /api/v1/wzry/question?id=8&ts=1604369079517 200 166ms
+2020-11-03T02:04:54.732Z info: GET /api/v1/wzry/question?id=9&ts=1604369094564 200 152ms
+2020-11-03T02:05:00.330Z info: GET /api/v1/wzry/saveResult?options=ABDGABEFGFBFGBEFDFACFBEFBEGFBCDEFCEF&results=132324295811151719&ts=1604369100215 200 93ms
+2020-11-03T02:05:01.221Z info: GET /api/public/file/ext?path=/heros/jialuo.jpg 304 1ms
+2020-11-03T02:06:19.985Z info: GET /api/v1/wzry/question?id=1&ts=1604369179820 200 149ms
+2020-11-03T02:06:23.535Z info: GET /api/v1/wzry/question?id=2&ts=1604369183339 200 173ms
+2020-11-03T02:06:49.758Z info: GET /api/v1/wzry/question?id=1&ts=1604369209598 200 150ms
+2020-11-03T02:06:53.466Z info: GET /api/v1/wzry/question?id=2&ts=1604369213290 200 166ms
+2020-11-03T02:06:55.690Z info: GET /api/v1/wzry/question?id=3&ts=1604369215533 200 149ms
+2020-11-03T02:06:56.902Z info: GET /api/v1/wzry/question?id=11&ts=1604369216728 200 165ms
+2020-11-03T02:06:58.096Z info: GET /api/v1/wzry/question?id=12&ts=1604369217937 200 149ms
+2020-11-03T02:06:59.273Z info: GET /api/v1/wzry/question?id=4&ts=1604369219100 200 166ms
+2020-11-03T02:07:02.736Z info: GET /api/v1/wzry/question?id=5&ts=1604369222576 200 152ms
+2020-11-03T02:07:04.856Z info: GET /api/v1/wzry/question?id=6&ts=1604369224676 200 167ms
+2020-11-03T02:07:06.356Z info: GET /api/v1/wzry/question?id=7&ts=1604369226200 200 145ms
+2020-11-03T02:07:08.386Z info: GET /api/v1/wzry/question?id=8&ts=1604369228209 200 166ms
+2020-11-03T02:07:10.591Z info: GET /api/v1/wzry/question?id=9&ts=1604369230432 200 150ms
+2020-11-03T02:07:11.811Z info: GET /api/v1/wzry/saveResult?options=ABDGFABEFGFBFGBEFDFACFBEFBEGFBCDEFCEF&results=132324295811151719&ts=1604369231714 200 88ms
+2020-11-03T02:07:12.638Z info: GET /api/public/file/ext?path=/heros/jialuo.jpg 304 2ms
+2020-11-03T08:49:28.442Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-11-03T08:49:29.424Z info: 数据库连接成功>>
+2020-11-06T02:52:43.018Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-11-06T02:52:44.227Z info: 数据库连接成功>>
+2020-11-06T02:53:37.444Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-11-06T02:53:38.329Z info: 数据库连接成功>>
+2020-11-06T03:10:03.951Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-11-06T03:10:05.057Z info: 数据库连接成功>>
+2020-11-06T03:28:09.689Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-11-06T03:28:10.776Z info: 数据库连接成功>>
+2020-11-06T03:28:25.141Z warn: POST /api/v1/Login 404 5ms
+2020-11-06T05:24:13.923Z warn: POST /api/v1/Login 404 0ms
+2020-11-06T05:24:15.171Z warn: POST /api/v1/Login 404 1ms
+2020-11-06T05:26:13.128Z warn: POST /api/v1/Login 404 0ms
+2020-11-06T05:32:32.920Z warn: POST /api/v1/login 404 0ms
+2020-11-06T05:34:13.849Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-11-06T05:34:14.666Z info: 数据库连接成功>>
+2020-11-06T06:13:34.312Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-11-06T06:13:35.565Z info: 数据库连接成功>>
+2020-11-06T07:06:20.797Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-11-06T07:06:21.680Z info: 数据库连接成功>>

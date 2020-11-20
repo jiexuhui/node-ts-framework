@@ -1,0 +1,43 @@
+ports:
+  http: 8080 # pro
+  dev: 5050 # dev
+  test: 6060 # test
+
+auth:
+  jwt_secret: 'your-secret-whatever'
+  token_time: '12h'
+
+mongo:
+  url: 'mongodb://127.0.0.1:27017/hjdw'
+
+loglevel: debug
+
+limit:
+  windowMs: 30000 #5 minutes
+  max: 2000
+
+mail:
+  host:
+  port:
+  secure: false
+  user:
+  pass:
+
+fileTypes:
+  - image/png
+  - image/bmp
+  - image/jpeg
+  - application/x-msdownload
+  - application/zip
+  - application/x-zip/compressed
+
+fileSize:
+  image: 15728640 #1024*1024*15 (15mb)
+  application: 524288000 # 1024*1024*500(500Mb)
+
+errors:
+  'aaa': 10000
+
+tt-wzry:
+  appId: 'tt182d6e9087074228'
+  secret: '828d3c4d7035ca6fbac76e80115ea6bea58274fc'

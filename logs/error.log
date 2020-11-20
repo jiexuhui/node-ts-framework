@@ -1,0 +1,12 @@
+2020-10-23T13:04:34.509Z error: GET /api/v1/user?nickname=aa 500 28ms
+2020-10-23T13:05:57.193Z error: GET /api/v1/user?nickname=aa 500 12ms
+2020-10-23T13:06:23.648Z error: GET /api/v1/user?nickname=aa 500 9ms
+2020-10-23T13:06:25.408Z error: GET /api/v1/user?nickname=aa 500 2ms
+2020-10-23T13:18:23.104Z error: GET /api/v1/user?nickname=aa 500 41ms
+2020-10-23T13:18:35.480Z error: GET /api/v1/user?nickname=aa 500 33ms
+2020-10-23T13:18:37.080Z error: GET /api/v1/user?nickname=aa 500 2ms
+2020-10-23T16:01:06.233Z error: 数据库连接失败
+2020-10-29T02:25:52.339Z error: 数据库连接失败
+2020-10-29T02:25:57.624Z error: 数据库连接失败
+2020-10-29T02:27:08.616Z error: 数据库连接失败
+2020-10-29T02:27:21.417Z error: 数据库连接失败
