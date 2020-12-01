@@ -3,10 +3,11 @@ import { cron } from '../jobs/cron';
 import { config } from './config';
 import { ExpressConfig } from './Express';
 import { connectMysqlDb } from './MysqlDb';
+import { setupSockets } from './Socket'
 
 export class Application {
 
-    server: any;
+    server: any; 
     express: ExpressConfig;
 
     constructor() {
@@ -35,7 +36,11 @@ export class Application {
     Http: http://localhost:${port}
     Health: http://localhost:${port}/ping
             `)
-        })
+        });
+
+        setupSockets(this.server);
+
+
         cron.start();
     }
 }
