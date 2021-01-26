@@ -28,7 +28,6 @@ export function setupSockets(app) {
 
 
         // bind application subscribers to this socket
-
         defaultMetadataRegistry
             .collectEventsHandlers
             .forEach(eventHandler => {
@@ -46,7 +45,7 @@ export function setupSockets(app) {
                             if (typeof cb == 'function') cb({ success: true, res });
                         } catch (error) {
                             logger.error(`event eventname err: ${error}`);
-                            if(!(error instanceof CustomEror)) {
+                            if (!(error instanceof CustomEror)) {
                                 error = new CustomEror('unexpecter error', error.message || error.stack);
                             }
 

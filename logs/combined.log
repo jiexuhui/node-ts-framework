@@ -5420,3 +5420,34 @@
     Health: http://localhost:5050/ping
             
 2020-11-06T07:06:21.680Z info: 数据库连接成功>>
+2020-12-08T06:37:06.095Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-12-08T06:37:41.835Z info: GET /api/public/file/ext?path=1.jpg 200 5ms
+2020-12-08T06:37:42.046Z warn: GET /favicon.ico 404 3ms
+2020-12-08T06:39:57.405Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
+2020-12-08T06:40:47.242Z info: GET /api/v1/user/rate 200 291ms
+2020-12-08T06:41:07.068Z info: GET /api/v1/user/rate 200 130ms
+2020-12-08T07:00:57.676Z info: 
+    ----------------
+    Server Started!
+    App is running in dev  mode
+    Logging initialized at debug level
+
+    Http: http://localhost:5050
+    Health: http://localhost:5050/ping
+            
